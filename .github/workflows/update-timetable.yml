@@ -2,7 +2,6 @@ name: Update Timetable
 
 on:
   schedule:
-    # Every Monday at 06:00 UTC
     - cron: "0 6 * * 1"
   workflow_dispatch: {}
 
@@ -22,10 +21,15 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install requests beautifulsoup4 seleniumbase playwright
+          playwright install --with-deps chromium
 
-      - name: Run scraper
-        run: python diagnose.py
+      - name: Install xvfb
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Run scraper (headed, under virtual display)
+        run: xvfb-run --auto-servernum python script.py
 
       - name: Commit and push if changed
         run: |
