@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Test connectivity
+        run: curl -sI https://cuonline.cuiatd.edu.pk/Timetable/COMSATSTimeTablePrintVersion.aspx
+
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 seleniumbase playwright
