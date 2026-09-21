@@ -60,8 +60,20 @@ def parse_timetable(soup):
                 lines = [l.strip() for l in text.split("\n") if l.strip()]
                 if lines:
                     course = lines[0]
-                    room = lines[1] if len(lines) > 1 else ""
-                    instructor = lines[-1] if len(lines) > 1 else ""
+                    # Room name and room code sometimes render as separate
+                    # lines within the cell (e.g. "Computer LAB 2" then
+                    # "(S-314)" on their own lines) rather than one combined
+                    # line - join everything between course and instructor
+                    # so the room code isn't silently dropped.
+                    if len(lines) >= 3:
+                        room = " ".join(lines[1:-1])
+                        instructor = lines[-1]
+                    elif len(lines) == 2:
+                        room = lines[1]
+                        instructor = ""
+                    else:
+                        room = ""
+                        instructor = ""
                     end_idx = min(slot_idx + span - 1, len(TIME_SLOTS) - 1)
                     entries.append({
                         "start_slot": TIME_SLOTS[slot_idx],
@@ -96,7 +108,7 @@ def main():
         # If Cloudflare Turnstile shows up, pause here for a manual click.
         # Comment this out once you confirm undetected mode passes it alone.
         # input("If a Cloudflare checkbox appeared, solve it now, then press Enter to continue...")
-        sb.sleep(10)  # wait for any potential JS redirects to finish
+        sb.sleep(20)  # wait for any potential JS redirects to finish
         page.wait_for_load_state("networkidle")
 
         soup = BeautifulSoup(page.content(), "html.parser")
