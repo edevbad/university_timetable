@@ -8,7 +8,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Muhammad Saeed"
       }
     ],
@@ -28,7 +28,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "E-Business",
-        "room": "A223(60M) 02 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Huma Shakir"
       }
     ],
@@ -74,7 +74,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computing Technologies for Business",
-        "room": "A120(60M) 02 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Muhammad Jamil"
       }
     ],
@@ -90,7 +90,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Management",
-        "room": "A118(60M) 1.5 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Muhammad Fayyaz Sheikh"
       }
     ],
@@ -108,7 +108,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "A120(60M) 02 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Faculty-10 HUM"
       },
       {
@@ -152,7 +152,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "A223(60M) 02 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Faculty-10 HUM"
       },
       {
@@ -168,7 +168,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Contemporary Nutrition",
-        "room": "A218(M) 02 Hr Class",
+        "room": "A218(M)",
         "instructor": "Dr. Shamyla Nawazish"
       },
       {
@@ -242,7 +242,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Philosophy",
-        "room": "A120(60M) 02 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Nazia Bashir"
       }
     ],
@@ -281,7 +281,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Programming Language for Business Analytics",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Assad Rafaq"
       }
     ],
@@ -308,7 +308,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Muhammad Aamir"
       }
     ],
@@ -340,7 +340,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Syed Fida Hussain Shah"
       },
       {
@@ -390,7 +390,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "E-Business",
-        "room": "A223(60M) 02 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Huma Shakir"
       }
     ],
@@ -438,7 +438,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Statistical Inference",
-        "room": "A114(60M) 1.5 Hr Class",
+        "room": "A114(60M)",
         "instructor": "Dr. Muhammad Saeed Lodhi"
       }
     ],
@@ -461,7 +461,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Financial Management",
-        "room": "A203(M) 1.5 Hr Class",
+        "room": "A203(M)",
         "instructor": "Humaira Khitab"
       }
     ],
@@ -507,7 +507,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "A120(60M) 02 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Jamil Farid"
       }
     ],
@@ -578,7 +578,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Employee Relation Management",
-        "room": "P4 1.5 Hr Class",
+        "room": "P4",
         "instructor": "Dr. Zohra Saleem"
       },
       {
@@ -761,7 +761,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "International Finance",
-        "room": "A211(M) 1.5 Hr Class",
+        "room": "A211(M)",
         "instructor": "Awais Rashid"
       },
       {
@@ -790,7 +790,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Employee Relation Management",
-        "room": "P4 1.5 Hr Class",
+        "room": "P4",
         "instructor": "Dr. Zohra Saleem"
       },
       {
@@ -813,7 +813,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Compensation Management",
-        "room": "P3 1.5 Hr Class",
+        "room": "P3",
         "instructor": "Muhammad Fayyaz Sheikh"
       },
       {
@@ -897,7 +897,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Supply Chain Finance",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Muhammad Jamil"
       },
       {
@@ -1061,7 +1061,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Umar Farid"
       }
     ],
@@ -1183,7 +1183,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Supply Chain Finance",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Muhammad Jamil"
       }
     ],
@@ -1278,7 +1278,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z104(M) 02 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Syed Fida Hussain Shah"
       },
       {
@@ -1304,7 +1304,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Aisha Bibi"
       }
     ],
@@ -1320,7 +1320,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Calculus and Analytic Geometry",
-        "room": "Z218 (60M) 1.5 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Dr. Izaz Ullah Khan"
       }
     ],
@@ -1336,7 +1336,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z206(M) 02 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Dr. Muhammad Shoaib Khaliq"
       }
     ],
@@ -1359,7 +1359,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Chemistry",
-        "room": "Z205(M) 02 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Umair Ashiq"
       }
     ],
@@ -1382,7 +1382,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Functional English",
-        "room": "Z215(60M) 1.5 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Zubaida Haroon"
       }
     ],
@@ -1401,7 +1401,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z218 (60M) 02 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Muhammad Ali Kazmi"
       }
     ],
@@ -1417,7 +1417,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Aisha Bibi"
       }
     ],
@@ -1440,7 +1440,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Calculus and Analytic Geometry",
-        "room": "Z204(M) 1.5 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Dr. Saira Bhatti"
       }
     ],
@@ -1479,7 +1479,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Chemistry",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Umair Ashiq"
       }
     ],
@@ -1530,7 +1530,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z205(M) 02 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Muhammad Tufail"
       }
     ],
@@ -1569,14 +1569,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Muhammad Ali Kazmi"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Chemistry",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Umair Ashiq"
       }
     ],
@@ -1680,7 +1680,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Electronic Devices and Circuits",
-        "room": "Z114(M) 1.5 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Dr. Ahmad Fayyaz"
       }
     ],
@@ -1777,7 +1777,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Electronic Devices and Circuits",
-        "room": "Z205(M) 1.5 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Dr. Muhammad Shoaib Khaliq"
       },
       {
@@ -1842,7 +1842,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Electronic Devices and Circuits",
-        "room": "Z203(M) 1.5 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Dr. Ahmad Fayyaz"
       }
     ],
@@ -1939,7 +1939,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Dr. Aamir Shahzad"
       },
       {
@@ -1985,7 +1985,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Numerical Computations",
-        "room": "Z218 (60M) 02 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Dr. Mohsin Fayyaz"
       },
       {
@@ -2050,14 +2050,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Numerical Computations",
-        "room": "Z203(M) 02 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Dr. Mohsin Fayyaz"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Syed Mashood Murtaza"
       }
     ],
@@ -2121,7 +2121,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z203(M) 1.5 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Asadullah Khan"
       },
       {
@@ -2170,7 +2170,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Nauman Khan Tareen"
       },
       {
@@ -2223,7 +2223,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Web Technologies",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Dr. Faisal Mehmood"
       },
       {
@@ -2318,7 +2318,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Nauman Khan Tareen"
       },
       {
@@ -2348,7 +2348,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Web Technologies",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Dr. Faisal Mehmood"
       },
       {
@@ -2466,7 +2466,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Dr. Sidra Mumtaz"
       }
     ],
@@ -2549,14 +2549,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Laiba Noor"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Nida Shafique"
       }
     ],
@@ -2565,28 +2565,28 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "HCI and Computer Graphics",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Faiza Hameed"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Aniqa Zaman (engineer)"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -2602,14 +2602,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "HCI and Computer Graphics",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Faiza Hameed"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -2618,7 +2618,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "HCI and Computer Graphics",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Faiza Hameed"
       },
       {
@@ -2641,7 +2641,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Laiba Noor"
       },
       {
@@ -2667,14 +2667,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -2683,7 +2683,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -2715,7 +2715,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Game Development",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -2747,7 +2747,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Muhammad Zubair"
       }
     ],
@@ -2757,7 +2757,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Muhammad Zubair"
       }
     ],
@@ -2778,7 +2778,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Dr. Ehzaz Mustafa"
       },
       {
@@ -2824,7 +2824,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ehzaz Mustafa"
       },
       {
@@ -2870,7 +2870,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Faculty-14 HUM"
       }
     ],
@@ -2919,7 +2919,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Faculty-14 HUM"
       }
     ],
@@ -2967,14 +2967,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C105 (102M) 01 Hr Class",
+        "room": "C105 (102M)",
         "instructor": "Dr. Ehzaz Mustafa"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Dr. Ehzaz Mustafa"
       }
     ],
@@ -3007,7 +3007,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -3041,14 +3041,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Fundamentals of Psychology",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Faculty-15 HUM"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Faculty-15 HUM"
       }
     ],
@@ -3064,7 +3064,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Waqar Khursheed"
       },
       {
@@ -3097,14 +3097,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Fundamentals of Psychology",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Faculty-15 HUM"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Faculty-15 HUM"
       }
     ],
@@ -3127,7 +3127,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Fuzel Jamil"
       },
       {
@@ -3143,7 +3143,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Fuzel Jamil"
       },
       {
@@ -3258,7 +3258,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Nayab Pervez"
       },
       {
@@ -3346,7 +3346,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Nayab Pervez"
       }
     ],
@@ -3429,7 +3429,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Saima Ali"
       }
     ],
@@ -3564,7 +3564,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Khurram Jahangir"
       }
     ],
@@ -3677,7 +3677,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Khurram Jahangir"
       }
     ],
@@ -3705,14 +3705,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Naseer Khan"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Naseer Khan"
       },
       {
@@ -3863,7 +3863,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Dr. Sardar Khaliq uz Zaman"
       }
     ],
@@ -3879,7 +3879,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Information Security",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Dr. Farman Ullah"
       },
       {
@@ -3893,7 +3893,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Aniqa Zaman (engineer)"
       }
     ],
@@ -3909,14 +3909,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Information Security",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Dr. Farman Ullah"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Aniqa Zaman (engineer)"
       }
     ],
@@ -3925,7 +3925,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Zaib Un Nisa"
       },
       {
@@ -3941,7 +3941,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Zaib Un Nisa"
       }
     ],
@@ -3960,7 +3960,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Ahsan Khan"
       }
     ],
@@ -3976,7 +3976,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Ahsan Khan"
       },
       {
@@ -3992,14 +3992,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Artificial Intelligence",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Aisha"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Dr. Javid Ali"
       },
       {
@@ -4022,14 +4022,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Professional Practices",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Aniqa Zaman (engineer)"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Aisha"
       }
     ],
@@ -4050,14 +4050,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Muhammad Yasir"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Information Security",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Ahsan Khan"
       }
     ],
@@ -4066,21 +4066,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Professional Practices",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Aniqa Zaman (engineer)"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Syed Shahab Zarin"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Artificial Intelligence",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Syed Shahab Zarin"
       }
     ],
@@ -4112,7 +4112,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Information Security",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Ahsan Khan"
       },
       {
@@ -4135,7 +4135,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Muhammad Yasir"
       }
     ],
@@ -4193,7 +4193,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Laiba Noor"
       },
       {
@@ -4223,7 +4223,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Muhammad Ali Faisal"
       }
     ],
@@ -4232,7 +4232,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
@@ -4262,7 +4262,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Information Security",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Maryam Ali"
       }
     ],
@@ -4278,14 +4278,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Maryam Ali"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Laiba Noor"
       },
       {
@@ -4325,7 +4325,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Nida Shafique"
       }
     ],
@@ -4334,7 +4334,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
@@ -4357,14 +4357,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Maryam Ali"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Programming",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Nida Shafique"
       },
       {
@@ -4380,7 +4380,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Maryam Ali"
       },
       {
@@ -4394,7 +4394,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Muhammad Ali Faisal"
       }
     ],
@@ -4438,21 +4438,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Advanced Programming",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Nida Shafique"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Yasar Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
@@ -4468,14 +4468,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Advanced Programming",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Nida Shafique"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
@@ -4491,7 +4491,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Information Security",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Yasar Khan"
       },
       {
@@ -4587,7 +4587,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Mobile Application Development",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Dr. Jawad Khan"
       },
       {
@@ -4603,7 +4603,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "HCI and Computer Graphics",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Faiza Hameed"
       },
       {
@@ -4617,14 +4617,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Dr. Ahmad Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Computer Architecture",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Muhammad Aftab"
       }
     ],
@@ -4633,14 +4633,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Machine Learning Fundamentals",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Dr. Ahmad Khan"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Mobile Application Development",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Dr. Jawad Khan"
       },
       {
@@ -4654,7 +4654,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "HCI and Computer Graphics",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Faiza Hameed"
       }
     ],
@@ -4705,21 +4705,21 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ahmad Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "HCI and Computer Graphics",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Syed Shahab Zarin"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Mobile Application Development",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Dr. Jawad Khan"
       }
     ],
@@ -4735,7 +4735,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Computer Architecture",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Dr. Noman Ullah"
       }
     ],
@@ -4751,7 +4751,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Machine Learning Fundamentals",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ahmad Khan"
       },
       {
@@ -4774,14 +4774,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "HCI and Computer Graphics",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Syed Shahab Zarin"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Mobile Application Development",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Dr. Jawad Khan"
       },
       {
@@ -4830,7 +4830,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Machine Learning Fundamentals",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Dr. Nuhman Ul Haq"
       }
     ],
@@ -4862,21 +4862,21 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Machine Learning Fundamentals",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Dr. Nuhman Ul Haq"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "HCI and Computer Graphics",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Faiza Hameed"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Mobile Application Development",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Ayesha Bibi"
       }
     ],
@@ -4885,7 +4885,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Mobile Application Development",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Ayesha Bibi"
       },
       {
@@ -4899,14 +4899,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "HCI and Computer Graphics",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Faiza Hameed"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Computer Architecture",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Dr. Noman Ullah"
       }
     ],
@@ -4934,7 +4934,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Web Technologies",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Sadaf Riaz"
       }
     ],
@@ -4953,7 +4953,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Web Technologies",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Sadaf Riaz"
       }
     ],
@@ -4974,28 +4974,28 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "DevOps for Cloud Computing",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Ahmed Ali"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Compiler Construction",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Faryal Jahangir"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Data Science Fundamentals",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Fiaz Gul Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advance Database Systems",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5018,21 +5018,21 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Compiler Construction",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Faryal Jahangir"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Data Science Fundamentals",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Dr. Fiaz Gul Khan"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "DevOps for Cloud Computing",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Ahmed Ali"
       }
     ],
@@ -5071,7 +5071,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advance Database Systems",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5091,14 +5091,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Data Science Fundamentals",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Dr. Fiaz Gul Khan"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Advance Database Systems",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5121,21 +5121,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Data Science Fundamentals",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Dr. Fiaz Gul Khan"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Compiler Construction",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Muniba Firdous"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "DevOps for Cloud Computing",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Mazhar Bukhari"
       },
       {
@@ -5165,7 +5165,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "DevOps for Cloud Computing",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Mazhar Bukhari"
       }
     ],
@@ -5174,7 +5174,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Compiler Construction",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Muniba Firdous"
       },
       {
@@ -5188,7 +5188,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advance Database Systems",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5208,7 +5208,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Science Fundamentals",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Sara Shafique"
       },
       {
@@ -5224,14 +5224,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Compiler Construction",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Muniba Firdous"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Game Development",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       },
       {
@@ -5254,7 +5254,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Advance Database Systems",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Gul E Laraib"
       },
       {
@@ -5270,7 +5270,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Compiler Construction",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Muniba Firdous"
       },
       {
@@ -5297,7 +5297,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Compiler Construction",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Kainat Khalid"
       }
     ],
@@ -5324,7 +5324,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Compiler Construction",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Kainat Khalid"
       }
     ],
@@ -5353,7 +5353,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Parallel and Distributed Computing",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5367,7 +5367,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Jawad Ahmad"
       }
     ],
@@ -5383,7 +5383,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Parallel and Distributed Computing",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Rabbiya Hameed"
       }
     ],
@@ -5392,7 +5392,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "HCI and Computer Graphics",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Syed Shahab Zarin"
       },
       {
@@ -5420,7 +5420,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Parallel and Distributed Computing",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5460,7 +5460,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Parallel and Distributed Computing",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5503,7 +5503,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Parallel and Distributed Computing",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       },
       {
@@ -5535,7 +5535,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Parallel and Distributed Computing",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       },
       {
@@ -5595,7 +5595,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -5604,14 +5604,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Ghanwa Batool"
       }
     ],
@@ -5620,14 +5620,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Artificial Intelligence",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Aisha"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Ghanwa Batool"
       }
     ],
@@ -5643,14 +5643,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Aisha"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Faculty-15 HUM"
       }
     ],
@@ -5726,7 +5726,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Business Analytics",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Zaheer Ahmad"
       },
       {
@@ -5756,7 +5756,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computing Technologies for Business",
-        "room": "A219(M) 02 Hr Class",
+        "room": "A219(M)",
         "instructor": "Assad Rafaq"
       },
       {
@@ -5851,7 +5851,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computing Technologies for Business",
-        "room": "Z219(M) 02 Hr Class",
+        "room": "Z219(M)",
         "instructor": "Muhammad Zia ul Wahid"
       }
     ],
@@ -5891,7 +5891,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Business Analytics",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Zaheer Ahmad"
       },
       {
@@ -5910,7 +5910,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Philosophy",
-        "room": "A228(M) 02 Hr Class",
+        "room": "A228(M)",
         "instructor": "Nazia Bashir"
       },
       {
@@ -5942,7 +5942,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Programming Language for Business Analytics",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Jamil Farid"
       },
       {
@@ -5974,7 +5974,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Contemporary Nutrition",
-        "room": "A228(M) 02 Hr Class",
+        "room": "A228(M)",
         "instructor": "Dr. Bibi Saima Zeb"
       }
     ],
@@ -6002,7 +6002,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Data Structures",
-        "room": "A228(M) 02 Hr Class",
+        "room": "A228(M)",
         "instructor": "Sohail Muzamil"
       }
     ],
@@ -6034,7 +6034,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Databases for Business",
-        "room": "A227(M) 02 Hr Class",
+        "room": "A227(M)",
         "instructor": "Umar Farid"
       }
     ],
@@ -6050,7 +6050,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "A219(M) 02 Hr Class",
+        "room": "A219(M)",
         "instructor": "Faculty-11 HUM"
       }
     ],
@@ -6062,7 +6062,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Muhammad Aamir"
       },
       {
@@ -6101,7 +6101,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Syed Fida Hussain Shah"
       }
     ],
@@ -6117,7 +6117,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Business Application using Machine Learning",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Shazil Turab"
       },
       {
@@ -6131,7 +6131,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Umar Farid"
       }
     ],
@@ -6181,7 +6181,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Deep Learning for Business",
-        "room": "A227(M) 02 Hr Class",
+        "room": "A227(M)",
         "instructor": "Shazil Turab"
       }
     ],
@@ -6213,7 +6213,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Cost and Management Accounting",
-        "room": "A212(M) 1.5 Hr Class",
+        "room": "A212(M)",
         "instructor": "Khurram Shahzad"
       }
     ],
@@ -6229,7 +6229,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Econometrics for Business Analytics",
-        "room": "A221(M) 1.5 Hr Class",
+        "room": "A221(M)",
         "instructor": "Dr. Muhammad Asif"
       }
     ],
@@ -6245,7 +6245,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Project Planning and Management",
-        "room": "Z208(M) 02 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Amjad Sohail"
       }
     ],
@@ -6257,7 +6257,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "Z206(M) 02 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Dr. Khalid Ahmad"
       },
       {
@@ -6287,7 +6287,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "21st Century Communication Skills",
-        "room": "Z213(M) 02 Hr Class",
+        "room": "Z213(M)",
         "instructor": "Sadaf Taj"
       },
       {
@@ -6363,7 +6363,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pakistan Studies",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -6390,7 +6390,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Muhammad Aamir"
       },
       {
@@ -6406,7 +6406,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Gender Issues and Development",
-        "room": "A220(M) 1.5 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Abda Khalid"
       },
       {
@@ -6429,7 +6429,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Gender Issues and Development",
-        "room": "P3 1.5 Hr Class",
+        "room": "P3",
         "instructor": "Dr. Abda Khalid"
       },
       {
@@ -6452,7 +6452,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Muhammad Saeed"
       },
       {
@@ -6481,7 +6481,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Gender Issues and Development",
-        "room": "A220(M) 1.5 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Abda Khalid"
       }
     ],
@@ -6490,7 +6490,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Gender Issues and Development",
-        "room": "P3 1.5 Hr Class",
+        "room": "P3",
         "instructor": "Dr. Abda Khalid"
       },
       {
@@ -6700,7 +6700,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Social Policy and Development",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Dr. Hamayun Khan"
       },
       {
@@ -6741,7 +6741,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Non-Governmental Organizations and Development",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Dr. Adeel Jalal Malik"
       },
       {
@@ -6795,7 +6795,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Social Policy and Development",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Dr. Hamayun Khan"
       },
       {
@@ -6818,7 +6818,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Development Economics",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Nadia Baig Uzbek"
       },
       {
@@ -6846,7 +6846,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mathematics I",
-        "room": "A212(M) 1.5 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Ali Ahmad Farooq"
       }
     ],
@@ -6873,7 +6873,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Development Economics",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Nadia Baig Uzbek"
       },
       {
@@ -6892,7 +6892,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of International Relations",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Dr. Nasrullah Khan"
       }
     ],
@@ -6901,7 +6901,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Sociology",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Abdul Majid Khalil"
       }
     ],
@@ -6923,7 +6923,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of International Relations",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Dr. Nasrullah Khan"
       }
     ],
@@ -6955,7 +6955,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -7001,7 +7001,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Development Economics",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Nadia Baig Uzbek"
       }
     ],
@@ -7020,7 +7020,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of International Relations",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Dr. Nasrullah Khan"
       }
     ],
@@ -7036,7 +7036,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Economics of Environment",
-        "room": "Z214(M) 1.5 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Dr. Aziz Ullah Sayal"
       }
     ],
@@ -7052,7 +7052,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Tools for Quantitative Reasoning",
-        "room": "A203(M) 1.5 Hr Class",
+        "room": "A203(M)",
         "instructor": "Laila Bibi"
       },
       {
@@ -7075,7 +7075,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Tools for Quantitative Reasoning",
-        "room": "A213(M) 1.5 Hr Class",
+        "room": "A213(M)",
         "instructor": "Laila Bibi"
       },
       {
@@ -7091,7 +7091,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Development Economics",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Nadia Baig Uzbek"
       }
     ],
@@ -7110,7 +7110,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Local Government System and Rural Development",
-        "room": "A227(M) 1.5 Hr Class",
+        "room": "A227(M)",
         "instructor": "Abu Turab Khan"
       },
       {
@@ -7140,7 +7140,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Economics of Environment",
-        "room": "Z214(M) 1.5 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Dr. Aziz Ullah Sayal"
       },
       {
@@ -7170,7 +7170,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -7213,7 +7213,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Local Government System and Rural Development",
-        "room": "A227(M) 1.5 Hr Class",
+        "room": "A227(M)",
         "instructor": "Abu Turab Khan"
       },
       {
@@ -7266,7 +7266,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -7309,7 +7309,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Local Government System and Rural Development",
-        "room": "A227(M) 1.5 Hr Class",
+        "room": "A227(M)",
         "instructor": "Abu Turab Khan"
       },
       {
@@ -7355,7 +7355,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -7406,7 +7406,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Financial Economics",
-        "room": "Z206(M) 1.5 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Dr. Abdul Ghafoor Khan"
       },
       {
@@ -7436,7 +7436,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -7515,7 +7515,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Dr. Aftab Ahmad Khan"
       }
     ],
@@ -7630,7 +7630,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z208(M) 02 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Rabia Sajjad"
       },
       {
@@ -7660,14 +7660,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z104(M) 02 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Muhammad Zia ul Wahid"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Introduction to Chemistry",
-        "room": "High Voltage (L) 02 Hr Class",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Sidra Mumtaz"
       }
     ],
@@ -7748,7 +7748,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Electric Circuits Analysis I",
-        "room": "Z220(M) 1.5 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Fahad Khan"
       }
     ],
@@ -7764,7 +7764,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z219(M) 02 Hr Class",
+        "room": "Z219(M)",
         "instructor": "Rabia Sajjad"
       }
     ],
@@ -7787,7 +7787,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z206(M) 02 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Muhammad Zia ul Wahid"
       }
     ],
@@ -7860,7 +7860,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Probability Methods in Engineering",
-        "room": "Z104(M) 1.5 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Dr. Ch. Arshad Mehmood"
       }
     ],
@@ -7966,7 +7966,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Object Oriented Programming",
-        "room": "Z208(M) 1.5 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Usman Khalid"
       },
       {
@@ -7989,7 +7989,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Object Oriented Programming",
-        "room": "Z210(M) 1.5 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Usman Khalid"
       },
       {
@@ -8070,7 +8070,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Principles of Communication Systems",
-        "room": "Z220(M) 1.5 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Atiq ul Anam"
       },
       {
@@ -8107,7 +8107,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z209(M) 1.5 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Dr. Mohsin Shahzad"
       },
       {
@@ -8140,7 +8140,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "21st Century Communication Skills",
-        "room": "Z205(M) 02 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Dr. Muhammad Ali"
       },
       {
@@ -8163,7 +8163,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "Z205(M) 02 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       },
       {
@@ -8218,7 +8218,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z203(M) 1.5 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Asadullah Khan"
       },
       {
@@ -8237,7 +8237,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "Z204(M) 02 Hr Class",
+        "room": "Z204(M)",
         "instructor": "Dr. Aamir Shahzad"
       }
     ],
@@ -8292,7 +8292,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "K105(M) 02 Hr Class",
+        "room": "K105(M)",
         "instructor": "Muhammad Tufail"
       },
       {
@@ -8367,7 +8367,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of International Relations",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Dr. Nasrullah Khan"
       },
       {
@@ -8399,7 +8399,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Dr. Muhammad Saeed"
       }
     ],
@@ -8408,7 +8408,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Philosophy",
-        "room": "Z203(M) 02 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Nazia Bashir"
       },
       {
@@ -8424,7 +8424,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Geology",
-        "room": "A227(M) 02 Hr Class",
+        "room": "A227(M)",
         "instructor": "Dr. Sidra Daud"
       }
     ],
@@ -8450,7 +8450,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Syed Fida Hussain Shah"
       }
     ],
@@ -8475,7 +8475,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Classical Drama",
-        "room": "K105(M) 1.5 Hr Class",
+        "room": "K105(M)",
         "instructor": "Dr. Alia Bashir Tanauli"
       },
       {
@@ -8498,7 +8498,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "Z218 (60M) 1.5 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Faculty-33 HUM"
       },
       {
@@ -8556,7 +8556,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Social Media Production",
-        "room": "Z208(M) 1.5 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Faculty-20 HUM"
       },
       {
@@ -8586,7 +8586,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Language Teaching Approaches",
-        "room": "Z219(M) 1.5 Hr Class",
+        "room": "Z219(M)",
         "instructor": "Sabeen Khalil"
       }
     ],
@@ -8715,7 +8715,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Modern Poetry",
-        "room": "Z213(M) 1.5 Hr Class",
+        "room": "Z213(M)",
         "instructor": "Dr. Alia Bashir Tanauli"
       }
     ],
@@ -8743,7 +8743,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Hina Zahoor"
       },
       {
@@ -8888,7 +8888,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Literary Stylistics",
-        "room": "Z109(M) 1.5 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Sadaf Taj"
       },
       {
@@ -8937,7 +8937,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Sociology",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Abdul Majid Khalil"
       },
       {
@@ -8953,7 +8953,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Classical Drama",
-        "room": "K105(M) 1.5 Hr Class",
+        "room": "K105(M)",
         "instructor": "Dr. Alia Bashir Tanauli"
       },
       {
@@ -9016,7 +9016,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "A223(60M) 1.5 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Romana Jamshed"
       }
     ],
@@ -9038,7 +9038,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Chemistry",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Nadia Riaz"
       }
     ],
@@ -9074,7 +9074,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Dr. Usman Irshad"
       }
     ],
@@ -9090,7 +9090,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Sociology",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Abdul Majid Khalil"
       }
     ],
@@ -9106,7 +9106,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Chemistry",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Nadia Riaz"
       }
     ],
@@ -9142,7 +9142,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Geology",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Asam Shad"
       }
     ],
@@ -9151,7 +9151,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "K105(M) 02 Hr Class",
+        "room": "K105(M)",
         "instructor": "Muhammad Tufail"
       },
       {
@@ -9183,7 +9183,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Hina Zahoor"
       },
       {
@@ -9199,7 +9199,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Microbiology",
-        "room": "P3 02 Hr Class",
+        "room": "P3",
         "instructor": "Dr. Rashid Nazir"
       }
     ],
@@ -9211,7 +9211,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Physics",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Sajid Hussain Shah"
       }
     ],
@@ -9227,7 +9227,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Monitoring",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Dr. Bibi Saima Zeb"
       },
       {
@@ -9243,7 +9243,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Philosophy",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Nazia Bashir"
       },
       {
@@ -9266,7 +9266,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "A219(M) 02 Hr Class",
+        "room": "A219(M)",
         "instructor": "Amjad Sohail"
       }
     ],
@@ -9282,7 +9282,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "A223(60M) 1.5 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Romana Jamshed"
       }
     ],
@@ -9294,7 +9294,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Toxicology",
-        "room": "A219(M) 02 Hr Class",
+        "room": "A219(M)",
         "instructor": "Dr. Zulfiqar Ahmad Bhatti"
       },
       {
@@ -9317,7 +9317,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Soil Science",
-        "room": "A219(M) 02 Hr Class",
+        "room": "A219(M)",
         "instructor": "Dr. Farid Ullah"
       },
       {
@@ -9347,7 +9347,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Tools for Quantitative Reasoning",
-        "room": "A203(M) 1.5 Hr Class",
+        "room": "A203(M)",
         "instructor": "Laila Bibi"
       },
       {
@@ -9363,7 +9363,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Tools for Quantitative Reasoning",
-        "room": "A213(M) 1.5 Hr Class",
+        "room": "A213(M)",
         "instructor": "Laila Bibi"
       },
       {
@@ -9397,7 +9397,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Analytical Techniques",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Dr. Maria Siddique"
       },
       {
@@ -9420,7 +9420,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Air Pollution and Control",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Dr. Romana Afzal"
       },
       {
@@ -9443,7 +9443,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Stresses and Plant Behavior",
-        "room": "A213(M) 1.5 Hr Class",
+        "room": "A213(M)",
         "instructor": "Dr. Habiba Zaffar"
       },
       {
@@ -9494,7 +9494,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Waste Treatment Technology",
-        "room": "A213(M) 02 Hr Class",
+        "room": "A213(M)",
         "instructor": "Dr. Asim Yaqub"
       },
       {
@@ -9517,7 +9517,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Remote Sensing and GIS",
-        "room": "A213(M) 02 Hr Class",
+        "room": "A213(M)",
         "instructor": "Romana Jamshed"
       },
       {
@@ -9591,7 +9591,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Biodiversity and Conservation",
-        "room": "A211(M) 02 Hr Class",
+        "room": "A211(M)",
         "instructor": "Dr. Abdul Nazir"
       },
       {
@@ -9757,7 +9757,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Dr. Aftab Ahmad Khan"
       }
     ],
@@ -9773,7 +9773,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Sifat Shah Fani"
       },
       {
@@ -9821,7 +9821,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pre-Calculus I",
-        "room": "A214(M) 1.5 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Amir Shahzad"
       },
       {
@@ -9840,7 +9840,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "A203(M) 02 Hr Class",
+        "room": "A203(M)",
         "instructor": "Faculty-11 HUM"
       },
       {
@@ -9863,7 +9863,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Sifat Shah Fani"
       }
     ],
@@ -9886,7 +9886,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Professional Practices",
-        "room": "A227(M) 02 Hr Class",
+        "room": "A227(M)",
         "instructor": "Umair Ashiq"
       }
     ],
@@ -9937,7 +9937,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biochemistry",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Dr. Irum Shahzadi"
       },
       {
@@ -9960,7 +9960,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Microbiology",
-        "room": "A218(M) 02 Hr Class",
+        "room": "A218(M)",
         "instructor": "Dr. Iftikhar Zeb"
       },
       {
@@ -9994,7 +9994,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z218 (60M) 02 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -10008,7 +10008,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Human Physiology I",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Shahid Masood Shah"
       }
     ],
@@ -10020,14 +10020,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Human Physiology II",
-        "room": "A212(M) 02 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Asim Ali"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Hematology I",
-        "room": "A212(M) 02 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Jamshaid Hussain"
       },
       {
@@ -10043,7 +10043,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z210(M) 02 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Syed Fida Hussain Shah"
       },
       {
@@ -10066,7 +10066,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Laboratory Instrumentation and Techniques",
-        "room": "Z210(M) 02 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Dr. Romana Afzal"
       },
       {
@@ -10089,7 +10089,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Islamic History",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       },
       {
@@ -10112,7 +10112,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "A223(60M) 1.5 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Romana Jamshed"
       }
     ],
@@ -10140,7 +10140,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Hina Zahoor"
       },
       {
@@ -10170,7 +10170,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "General Pharmacology",
-        "room": "Z103(M) 02 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Dr. Umer Rashid"
       }
     ],
@@ -10186,7 +10186,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Bioethics and Safety",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Samina khalid"
       },
       {
@@ -10209,7 +10209,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Health Biotechnology",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Mian Basit Shah Kakakhel"
       },
       {
@@ -10275,7 +10275,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Sociology",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Abdul Majid Khalil"
       },
       {
@@ -10305,7 +10305,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "A223(60M) 02 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Dr. Shahid Masood Shah"
       }
     ],
@@ -10321,7 +10321,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Foundations of Psychology",
-        "room": "Z114(M) 1.5 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Faculty-01 Hum"
       }
     ],
@@ -10352,7 +10352,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Dr. Muhammad Saeed"
       },
       {
@@ -10368,7 +10368,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Philosophy",
-        "room": "Z203(M) 02 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Nazia Bashir"
       },
       {
@@ -10398,7 +10398,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z104(M) 02 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Syed Fida Hussain Shah"
       }
     ],
@@ -10419,7 +10419,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Theories and Practice in Experimental Psychology",
-        "room": "Z203(M) 02 Hr Class",
+        "room": "Z203(M)",
         "instructor": "Faculty-03 HUM"
       },
       {
@@ -10465,7 +10465,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "Z218 (60M) 1.5 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Faculty-33 HUM"
       },
       {
@@ -10495,7 +10495,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Z218 (60M) 02 Hr Class",
+        "room": "Z218 (60M)",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -10632,7 +10632,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Psychological Testing",
-        "room": "Z103(M) 02 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Faculty-04 HUM"
       }
     ],
@@ -10703,7 +10703,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Educational Psychology",
-        "room": "Z103(M) 1.5 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Faculty-08 HUM"
       }
     ],
@@ -10722,7 +10722,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Psycho-pathology II",
-        "room": "P3 1.5 Hr Class",
+        "room": "P3",
         "instructor": "Faculty-09 HUM"
       },
       {
@@ -10745,7 +10745,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Hina Zahoor"
       }
     ],
@@ -10793,7 +10793,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Cross Cultural Psychology",
-        "room": "Z214(M) 1.5 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Faculty-06 HUm"
       },
       {
@@ -10819,7 +10819,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Psycholinguistics",
-        "room": "Z210(M) 1.5 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Faculty-20 HUM"
       },
       {
@@ -10962,21 +10962,21 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Programming",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Ayesha Irshad"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -10985,14 +10985,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Networks",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Ayesha Irshad"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Ghanwa Batool"
       },
       {
@@ -11029,14 +11029,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Ghanwa Batool"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Dr. Shahid Khan"
       }
     ],
@@ -11052,14 +11052,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -11075,7 +11075,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
@@ -11101,7 +11101,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Saima Ali"
       }
     ],
@@ -11110,7 +11110,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Muhammad Yasir"
       }
     ],
@@ -11119,7 +11119,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Areej Bashir"
       }
     ],
@@ -11128,7 +11128,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Artificial Intelligence",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Areej Bashir"
       },
       {
@@ -11164,7 +11164,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -11173,7 +11173,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -11243,7 +11243,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -11252,7 +11252,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Networks",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -11279,7 +11279,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Muhammad Aftab"
       }
     ],
@@ -11298,7 +11298,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Shahid Hussain (Senior Eng)"
       }
     ],
@@ -11307,7 +11307,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Malik Adnan Jaleel"
       },
       {
@@ -11353,7 +11353,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Malik Adnan Jaleel"
       },
       {
@@ -11376,7 +11376,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Faculty-16 HUM"
       }
     ],
@@ -11395,14 +11395,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Dr. Rab Nawaz"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Faculty-16 HUM"
       }
     ],
@@ -11418,7 +11418,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Dr. Rab Nawaz"
       },
       {
@@ -11473,14 +11473,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C105 (102M) 01 Hr Class",
+        "room": "C105 (102M)",
         "instructor": "Shahid Hussain (Senior Eng)"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Shahid Hussain (Senior Eng)"
       }
     ],
@@ -11499,7 +11499,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Dr. Rab Nawaz"
       }
     ],
@@ -11517,7 +11517,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Dr. Rab Nawaz"
       },
       {
@@ -11531,7 +11531,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Dr. Shahid Khan"
       }
     ],
@@ -11563,7 +11563,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Faculty-17 HUM"
       }
     ],
@@ -11600,14 +11600,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Rabbia Qazi"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Psychology",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Faculty-17 HUM"
       }
     ],
@@ -11639,14 +11639,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Rabbia Qazi"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Dr. Shahid Khan"
       }
     ],
@@ -11665,7 +11665,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Saima Ali"
       }
     ],
@@ -11824,7 +11824,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "S204 (61M) 01 Hr Class",
+        "room": "S204 (61M)",
         "instructor": "Jawad Ahmad"
       }
     ],
@@ -11875,7 +11875,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Jawad Ahmad"
       }
     ],
@@ -12067,7 +12067,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Naseer Khan"
       }
     ],
@@ -12086,7 +12086,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Dr. Syed Wajahat Ali"
       }
     ],
@@ -12206,7 +12206,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Dr. Syed Wajahat Ali"
       }
     ],
@@ -12327,21 +12327,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Information Security",
-        "room": "C106 (50M) 01 Hr Class",
+        "room": "C106 (50M)",
         "instructor": "Muhammad Ahmed Mustafa"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C208 (50M) 01 Hr Class",
+        "room": "C208 (50M)",
         "instructor": "Areej Bashir"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -12350,7 +12350,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Networks",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Ayesha Irshad"
       },
       {
@@ -12364,7 +12364,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Areej Bashir"
       }
     ],
@@ -12380,7 +12380,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Information Security",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Muhammad Ahmed Mustafa"
       }
     ],
@@ -12403,14 +12403,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Professional Practices",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Aniqa Zaman (engineer)"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Aniqa Zaman (engineer)"
       }
     ],
@@ -12440,7 +12440,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Ayesha Irshad"
       },
       {
@@ -12456,7 +12456,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Information Security",
-        "room": "C105 (102M) 01 Hr Class",
+        "room": "C105 (102M)",
         "instructor": "Yasar Khan"
       },
       {
@@ -12470,7 +12470,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Areej Bashir"
       }
     ],
@@ -12479,14 +12479,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Artificial Intelligence",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Areej Bashir"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Ayesha Irshad"
       },
       {
@@ -12500,7 +12500,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Yasar Khan"
       }
     ],
@@ -12516,7 +12516,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Professional Practices",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Muhammad Aftab"
       }
     ],
@@ -12529,21 +12529,21 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Ghanwa Batool"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Muhammad Yasir"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Information Security",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Dr. Mazhar Ali"
       },
       {
@@ -12559,7 +12559,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Ghanwa Batool"
       },
       {
@@ -12573,14 +12573,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Computer Networks",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Muhammad Yasir"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Dr. Mazhar Ali"
       }
     ],
@@ -12605,7 +12605,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Professional Practices",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Muhammad Aftab"
       },
       {
@@ -12635,7 +12635,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -12644,7 +12644,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Operating Systems",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Qazi Muhammad Shaheer"
       },
       {
@@ -12670,7 +12670,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Web Technologies",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Bushra Mushtaq"
       },
       {
@@ -12693,7 +12693,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
@@ -12707,14 +12707,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Mobile Application Development",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Muhammad Javed Raza"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -12753,14 +12753,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mobile Application Development",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Muhammad Javed Raza"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Web Technologies",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Bushra Mushtaq"
       }
     ],
@@ -12795,7 +12795,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Web Technologies",
-        "room": "S107(45M) 01 Hr Class",
+        "room": "S107(45M)",
         "instructor": "Bushra Mushtaq"
       }
     ],
@@ -12827,14 +12827,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Mobile Application Development",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Muhammad Javed Raza"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Web Technologies",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Bushra Mushtaq"
       },
       {
@@ -12848,7 +12848,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -12864,7 +12864,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Mobile Application Development",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Muhammad Javed Raza"
       },
       {
@@ -12887,7 +12887,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -12906,7 +12906,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
@@ -12922,21 +12922,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S205 (80M) 01 Hr Class",
+        "room": "S205 (80M)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Web Technologies",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Muhammad Ali Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Mobile Application Development",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Ayesha Bibi"
       },
       {
@@ -12952,7 +12952,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Mobile Application Development",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Ayesha Bibi"
       },
       {
@@ -12966,7 +12966,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Web Technologies",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Muhammad Ali Khan"
       },
       {
@@ -13024,7 +13024,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -13033,7 +13033,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Software Quality Engineering",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Mukhtiar Zamin"
       },
       {
@@ -13056,7 +13056,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Machine Learning Fundamentals",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Osman Khalid"
       },
       {
@@ -13079,7 +13079,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Software Quality Engineering",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Mukhtiar Zamin"
       },
       {
@@ -13102,7 +13102,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Osman Khalid"
       },
       {
@@ -13128,7 +13128,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Aatikah Rasool"
       },
       {
@@ -13151,14 +13151,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "S311(43M) 01 Hr Class",
+        "room": "S311(43M)",
         "instructor": "Aatikah Rasool"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Game Development",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Syed Faraz Ahmad"
       },
       {
@@ -13181,7 +13181,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Software Quality Engineering",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Fizza Semab Nazli"
       },
       {
@@ -13197,7 +13197,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Software Quality Engineering",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Fizza Semab Nazli"
       },
       {
@@ -13246,7 +13246,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Software Quality Engineering",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Fizza Semab Nazli"
       },
       {
@@ -13269,7 +13269,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Aatikah Rasool"
       }
     ],
@@ -13285,7 +13285,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Syed Faraz Ahmad"
       }
     ],
@@ -13301,7 +13301,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Software Quality Engineering",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Fizza Semab Nazli"
       },
       {
@@ -13331,7 +13331,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Aatikah Rasool"
       },
       {
@@ -13351,7 +13351,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -13360,7 +13360,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -13390,21 +13390,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Software Construction and Development",
-        "room": "S105 (52M) 01 Hr Class",
+        "room": "S105 (52M)",
         "instructor": "Hifza Ali"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Laiba Noor"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Software Project Management",
-        "room": "C211(40) 01 Hr Class",
+        "room": "C211(40)",
         "instructor": "Ahsan Riaz"
       },
       {
@@ -13420,28 +13420,28 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Software Project Management",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Ahsan Riaz"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Software Construction and Development",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Hifza Ali"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Data Science Fundamentals",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Iqra Sarfraz"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Laiba Noor"
       },
       {
@@ -13471,7 +13471,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Data Science Fundamentals",
-        "room": "S203(60M) 01 Hr Class",
+        "room": "S203(60M)",
         "instructor": "Iqra Sarfraz"
       }
     ],
@@ -13515,14 +13515,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Software Construction and Development",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Hifza Ali"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Software Project Management",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Ahsan Riaz"
       }
     ],
@@ -13538,28 +13538,28 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Software Construction and Development",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Hifza Ali"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Data Science Fundamentals",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Iqra Sarfraz"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Software Project Management",
-        "room": "S202 (42M) 01 Hr Class",
+        "room": "S202 (42M)",
         "instructor": "Ahsan Riaz"
       }
     ],
@@ -13591,14 +13591,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Programming",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Data Science Fundamentals",
-        "room": "S206 (56M) 01 Hr Class",
+        "room": "S206 (56M)",
         "instructor": "Iqra Sarfraz"
       },
       {
@@ -13625,14 +13625,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Programming",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Software Project Management",
-        "room": "S211(40M) 01 Hr Class",
+        "room": "S211(40M)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -13664,14 +13664,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Data Science Fundamentals",
-        "room": "C104 (52M) 01 Hr Class",
+        "room": "C104 (52M)",
         "instructor": "Sara Shafique"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Software Construction and Development",
-        "room": "C202 (46M) 01 Hr Class",
+        "room": "C202 (46M)",
         "instructor": "Ayesha Amjid"
       },
       {
@@ -13687,21 +13687,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Data Science Fundamentals",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Sara Shafique"
       },
       {
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Software Project Management",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Qazi Muhammad Shaheer"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Software Construction and Development",
-        "room": "S313(40M) 01 Hr Class",
+        "room": "S313(40M)",
         "instructor": "Ayesha Amjid"
       },
       {
@@ -13715,7 +13715,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Amen Faridoon"
       }
     ],
@@ -13773,7 +13773,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S103 (52M) 01 Hr Class",
+        "room": "S103 (52M)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -13782,7 +13782,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Game Development",
-        "room": "C108 (44M) 01 Hr Class",
+        "room": "C108 (44M)",
         "instructor": "Dr. Syed Faraz Ahmad"
       }
     ],
@@ -13865,7 +13865,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S207 (56M) 01 Hr Class",
+        "room": "S207 (56M)",
         "instructor": "Waqar Khursheed"
       },
       {
@@ -14032,14 +14032,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Human Computer Interaction",
-        "room": "C205(77M) 01 Hr Class",
+        "room": "C205(77M)",
         "instructor": "Faculty-13 CS"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Human Computer Interaction",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Faculty-13 CS"
       }
     ],
@@ -14109,7 +14109,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "C204(58) 01 Hr Class",
+        "room": "C204(58)",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -14119,7 +14119,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "S101(45M) 01 Hr Class",
+        "room": "S101(45M)",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -14227,7 +14227,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Recombinant DNA Technology",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Dr. Ayesha Baig"
       },
       {
@@ -14248,7 +14248,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pakistan Studies",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -14260,7 +14260,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Analytical Techniques",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Jamshed Iqbal"
       },
       {
@@ -14322,7 +14322,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Bioethics and Safety",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Samina khalid"
       },
       {
@@ -14352,7 +14352,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pakistan Studies",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -14403,7 +14403,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied and Environmental Microbiology",
-        "room": "Z213(M) 02 Hr Class",
+        "room": "Z213(M)",
         "instructor": "Dr. Rashid Nazir"
       }
     ],
@@ -14419,7 +14419,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Clinical Bacteriology",
-        "room": "Z210(M) 02 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Dr. Syed Tatheer Alam Naqvi"
       },
       {
@@ -14442,7 +14442,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pakistan Studies",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -14461,7 +14461,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "A203(M) 02 Hr Class",
+        "room": "A203(M)",
         "instructor": "Faculty-11 HUM"
       }
     ],
@@ -14477,7 +14477,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Microbiology",
-        "room": "A218(M) 02 Hr Class",
+        "room": "A218(M)",
         "instructor": "Dr. Iftikhar Zeb"
       },
       {
@@ -14493,7 +14493,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "A223(60M) 02 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Dr. Shahid Masood Shah"
       },
       {
@@ -14516,7 +14516,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Hina Zahoor"
       },
       {
@@ -14536,7 +14536,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Essentials of Enzymology",
-        "room": "A218(M) 02 Hr Class",
+        "room": "A218(M)",
         "instructor": "Dr. Syed Tatheer Alam Naqvi"
       },
       {
@@ -14576,7 +14576,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Islamic History",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       },
       {
@@ -14618,7 +14618,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Syed Fida Hussain Shah"
       },
       {
@@ -14634,7 +14634,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Immunology",
-        "room": "A203(M) 02 Hr Class",
+        "room": "A203(M)",
         "instructor": "Dr. Wajiha Khan"
       },
       {
@@ -14657,7 +14657,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Bioinformatics",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Dr. Ghazal Khurshid"
       },
       {
@@ -14673,7 +14673,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Food Biotechnology",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Dr. Arshad Mehmood"
       },
       {
@@ -14689,7 +14689,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Recombinant DNA Technology",
-        "room": "A209(M) 02 Hr Class",
+        "room": "A209(M)",
         "instructor": "Dr. Ayesha Baig"
       },
       {
@@ -14703,7 +14703,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pakistan Studies",
-        "room": "A210(M) 02 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -14768,7 +14768,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -14791,7 +14791,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Bioethics and Safety",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Samina khalid"
       }
     ],
@@ -14819,7 +14819,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Analytical Techniques",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Jamshed Iqbal"
       },
       {
@@ -14835,7 +14835,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Industrial Biotechnology",
-        "room": "A211(M) 02 Hr Class",
+        "room": "A211(M)",
         "instructor": "Dr. Samina khalid"
       },
       {
@@ -14872,7 +14872,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       },
       {
@@ -14895,7 +14895,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Biotechnology",
-        "room": "A203(M) 1.5 Hr Class",
+        "room": "A203(M)",
         "instructor": "Dr. Imran Hussain"
       }
     ],
@@ -14904,7 +14904,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Health Biotechnology",
-        "room": "A210(M) 1.5 Hr Class",
+        "room": "A210(M)",
         "instructor": "Dr. Mian Basit Shah Kakakhel"
       },
       {
@@ -14962,7 +14962,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       },
       {
@@ -14978,7 +14978,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Nanobiotechnology",
-        "room": "A211(M) 1.5 Hr Class",
+        "room": "A211(M)",
         "instructor": "Dr. Bushra Ismail"
       },
       {
@@ -15032,7 +15032,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Nanobiotechnology",
-        "room": "A211(M) 1.5 Hr Class",
+        "room": "A211(M)",
         "instructor": "Dr. Bushra Ismail"
       },
       {
@@ -15053,7 +15053,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z104(M) 02 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Zafar Iqbal"
       }
     ],
@@ -15075,7 +15075,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Materials",
-        "room": "K105(M) 02 Hr Class",
+        "room": "K105(M)",
         "instructor": "Safeer Ullah"
       }
     ],
@@ -15091,7 +15091,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Faculty-12 HUM"
       },
       {
@@ -15137,7 +15137,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "Z215(60M) 02 Hr Class",
+        "room": "Z215(60M)",
         "instructor": "Sifat Shah Fani"
       }
     ],
@@ -15146,7 +15146,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Drawing",
-        "room": "K105(M) 02 Hr Class",
+        "room": "K105(M)",
         "instructor": "Imtiaz Ahmad"
       }
     ],
@@ -15165,7 +15165,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Psychology",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Faculty-12 HUM"
       }
     ],
@@ -15190,7 +15190,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applied Physics",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Sifat Shah Fani"
       },
       {
@@ -15213,7 +15213,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Drawing",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Rabiah Muhammad"
       }
     ],
@@ -15229,7 +15229,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Materials",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Safeer Ullah"
       }
     ],
@@ -15264,7 +15264,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mechanics of Solids I",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Muhammad Jamal Butt"
       }
     ],
@@ -15280,7 +15280,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Surveying",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Muhammad Zafar Ali Shah"
       }
     ],
@@ -15289,7 +15289,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Soil Mechanics",
-        "room": "Z103(M) 02 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Muhammad Shakil"
       },
       {
@@ -15312,7 +15312,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Elementary Fluid Mechanics",
-        "room": "Z214(M) 02 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Zanib Fida"
       }
     ],
@@ -15340,7 +15340,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Elementary Fluid Mechanics",
-        "room": "Z114(M) 02 Hr Class",
+        "room": "Z114(M)",
         "instructor": "Zanib Fida"
       }
     ],
@@ -15356,7 +15356,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mechanics of Solids I",
-        "room": "A228(M) 02 Hr Class",
+        "room": "A228(M)",
         "instructor": "Muhammad Jamal Butt"
       }
     ],
@@ -15372,7 +15372,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Advanced Surveying",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Muhammad Zafar Ali Shah"
       }
     ],
@@ -15388,7 +15388,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Soil Mechanics",
-        "room": "Z220(M) 02 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Muhammad Shakil"
       },
       {
@@ -15433,14 +15433,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Mechanics of Solids II",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Sumaya Malik"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Engineering Surveying",
-        "room": "K106(M) 02 Hr Class",
+        "room": "K106(M)",
         "instructor": "Kifayat Shah"
       }
     ],
@@ -15449,7 +15449,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advanced Fluid Mechanics",
-        "room": "P4 02 Hr Class",
+        "room": "P4",
         "instructor": "Junaid Amin"
       }
     ],
@@ -15468,7 +15468,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Project Planning and Management",
-        "room": "Z220(M) 02 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Amjad Sohail"
       },
       {
@@ -15484,7 +15484,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Occupational Health and Safety",
-        "room": "Z220(M) 02 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Shad Muhammad"
       },
       {
@@ -15507,7 +15507,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Engineering",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Dr. Kashif Mehmood"
       },
       {
@@ -15530,7 +15530,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Muhammad Saeed"
       }
     ],
@@ -15546,7 +15546,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Engineering Hydrology",
-        "room": "A212(M) 02 Hr Class",
+        "room": "A212(M)",
         "instructor": "Abdul Waheed"
       }
     ],
@@ -15574,7 +15574,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Engineering Hydrology",
-        "room": "Z103(M) 02 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Abdul Waheed"
       },
       {
@@ -15613,7 +15613,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pakistan Studies",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Muhammad Saeed"
       }
     ],
@@ -15622,7 +15622,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Environmental Engineering",
-        "room": "K105(M) 02 Hr Class",
+        "room": "K105(M)",
         "instructor": "Junaid Amin"
       },
       {
@@ -15636,14 +15636,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Project Planning and Management",
-        "room": "Z208(M) 02 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Amjad Sohail"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Occupational Health and Safety",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Shad Muhammad"
       }
     ],
@@ -15662,7 +15662,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z208(M) 02 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Zafar Iqbal"
       }
     ],
@@ -15710,7 +15710,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Reinforced Concrete Design II",
-        "room": "Z109(M) 02 Hr Class",
+        "room": "Z109(M)",
         "instructor": "Sumaya Malik"
       }
     ],
@@ -15719,7 +15719,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Construction and Graphics",
-        "room": "A202(M) 02 Hr Class",
+        "room": "A202(M)",
         "instructor": "Muhammad Asghar"
       }
     ],
@@ -15738,7 +15738,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civil Engineering Construction and Graphics",
-        "room": "Z219(M) 02 Hr Class",
+        "room": "Z219(M)",
         "instructor": "Kifayat Shah"
       },
       {
@@ -15761,7 +15761,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z104(M) 02 Hr Class",
+        "room": "Z104(M)",
         "instructor": "Zafar Iqbal"
       }
     ],
@@ -15786,7 +15786,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Reinforced Concrete Design II",
-        "room": "Z219(M) 02 Hr Class",
+        "room": "Z219(M)",
         "instructor": "Asif Shahzad"
       },
       {
@@ -15845,7 +15845,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z208(M) 02 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Zafar Iqbal"
       },
       {
@@ -15868,7 +15868,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Steel Structures",
-        "room": "P4 1.5 Hr Class",
+        "room": "P4",
         "instructor": "Sumaya Malik"
       },
       {
@@ -15906,7 +15906,7 @@
         "start_slot": "18:00-19:30",
         "end_slot": "18:00-19:30",
         "course": "Geotechnical and Foundation Engineering",
-        "room": "A220(M) 02 Hr Class",
+        "room": "A220(M)",
         "instructor": "Muhammad Asghar"
       }
     ],
@@ -15931,14 +15931,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Introduction to Architecture and Town Planning",
-        "room": "P4 02 Hr Class",
+        "room": "P4",
         "instructor": "Maheen Ahmad Khan"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Properties of Concrete",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Kifayat Shah"
       }
     ],
@@ -16001,7 +16001,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Object Oriented Programming",
-        "room": "Z208(M) 1.5 Hr Class",
+        "room": "Z208(M)",
         "instructor": "Usman Khalid"
       },
       {
@@ -16031,7 +16031,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Object Oriented Programming",
-        "room": "Z210(M) 1.5 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Usman Khalid"
       },
       {
@@ -16064,7 +16064,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Engineering Economics",
-        "room": "Z209(M) 02 Hr Class",
+        "room": "Z209(M)",
         "instructor": "Dr. Sidra Mumtaz"
       },
       {
@@ -16110,7 +16110,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Digital System Design",
-        "room": "Z210(M) 1.5 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Dr. Malik Summair Asghar"
       }
     ],
@@ -16177,7 +16177,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "Z205(M) 02 Hr Class",
+        "room": "Z205(M)",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       }
     ],
@@ -16209,7 +16209,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Principles of Communication Systems",
-        "room": "Z220(M) 1.5 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Atiq ul Anam"
       },
       {
@@ -16324,7 +16324,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -16347,7 +16347,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Introduction to Entrepreneurship",
-        "room": "Z210(M) 02 Hr Class",
+        "room": "Z210(M)",
         "instructor": "Syed Fida Hussain Shah"
       }
     ],
@@ -16356,7 +16356,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Minerology and Crystallography",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       }
     ],
@@ -16365,7 +16365,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Islamic History",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Muhammad Tanveer Jamal"
       }
     ],
@@ -16385,7 +16385,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Introduction to Geophysics",
-        "room": "Z220(M) 02 Hr Class",
+        "room": "Z220(M)",
         "instructor": "Dr. Javed Iqbal"
       }
     ],
@@ -16410,7 +16410,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Chemistry",
-        "room": "A211(M) 02 Hr Class",
+        "room": "A211(M)",
         "instructor": "Dr. Farhan Ahmad Khan"
       }
     ],
@@ -16426,7 +16426,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Stratigraphy and Paleontology",
-        "room": "TL-ERS 02 Hr Class",
+        "room": "TL-ERS",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       }
     ],
@@ -16442,7 +16442,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Geology",
-        "room": "A227(M) 02 Hr Class",
+        "room": "A227(M)",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -16461,7 +16461,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Civics and Community Engagement",
-        "room": "A216(60M) 02 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Muhammad Aamir"
       },
       {
@@ -16477,7 +16477,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Igneous and Metamorphic Petrology",
-        "room": "P3 02 Hr Class",
+        "room": "P3",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       },
       {
@@ -16493,7 +16493,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computing and Geostatistics",
-        "room": "A212(M) 02 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Syed Tallataf Hussain"
       },
       {
@@ -16509,7 +16509,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Structural Geology and Tectonics",
-        "room": "Z214(M) 02 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Dr. Wahid Abbas"
       },
       {
@@ -16525,7 +16525,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Soil Mechanics",
-        "room": "Z207(M) 02 Hr Class",
+        "room": "Z207(M)",
         "instructor": "Dr. Aqeel Goher"
       }
     ],
@@ -16544,7 +16544,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Petroleum Geology",
-        "room": "P4 02 Hr Class",
+        "room": "P4",
         "instructor": "Dr. Muhammad Jamil"
       },
       {
@@ -16560,7 +16560,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Sedimentology",
-        "room": "A221(M) 02 Hr Class",
+        "room": "A221(M)",
         "instructor": "Asad Ali"
       },
       {
@@ -16585,7 +16585,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Tectonics of Pakistan",
-        "room": "P4 02 Hr Class",
+        "room": "P4",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -16601,7 +16601,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Environmental Hazards and Management of Natural Disasters",
-        "room": "P4 1.5 Hr Class",
+        "room": "P4",
         "instructor": "Dr. Sajid Hussain Shah"
       },
       {
@@ -16627,7 +16627,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Field Geology",
-        "room": "Z213(M) 02 Hr Class",
+        "room": "Z213(M)",
         "instructor": "Dr. Syed Tallataf Hussain"
       },
       {
@@ -16659,14 +16659,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Engineering Geology",
-        "room": "P3 02 Hr Class",
+        "room": "P3",
         "instructor": "Dr. Aqeel Goher"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Sequence Stratigraphy",
-        "room": "Z214(M) 02 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Asad Ali"
       },
       {
@@ -16689,7 +16689,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Petroleum Geology of Pakistan",
-        "room": "Z206(M) 02 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Asad Ali"
       },
       {
@@ -16705,7 +16705,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Well Logging",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Sidra Daud"
       }
     ],
@@ -16724,7 +16724,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Geology of Pakistan",
-        "room": "Z214(M) 02 Hr Class",
+        "room": "Z214(M)",
         "instructor": "Dr. Wahid Abbas"
       },
       {
@@ -16756,7 +16756,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Basin Analysis",
-        "room": "TL-ERS 02 Hr Class",
+        "room": "TL-ERS",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -16779,7 +16779,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Geotechnical and Foundation Engineering",
-        "room": "Z213(M) 02 Hr Class",
+        "room": "Z213(M)",
         "instructor": "Dr. Aqeel Goher"
       }
     ],
@@ -16788,14 +16788,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "10:30-12:00",
         "course": "Well Logging",
-        "room": "A214(M) 02 Hr Class",
+        "room": "A214(M)",
         "instructor": "Dr. Sidra Daud"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Report Writing Skills",
-        "room": "A223(60M) 1.5 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Romana Jamshed"
       },
       {
@@ -16831,7 +16831,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computing and Geostatistics",
-        "room": "A212(M) 02 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -16840,7 +16840,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Petroleum Geology of Pakistan",
-        "room": "Z206(M) 02 Hr Class",
+        "room": "Z206(M)",
         "instructor": "Asad Ali"
       },
       {
@@ -17149,7 +17149,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Organic Chemistry - I",
-        "room": "A114(60M) 1.5 Hr Class",
+        "room": "A114(60M)",
         "instructor": "Dr. Muhammad Ashfaq"
       },
       {
@@ -17172,7 +17172,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Physiology-I",
-        "room": "A118(60M) 1.5 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. S Mobasher Ali Abid"
       }
     ],
@@ -17188,7 +17188,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Biochemistry - I",
-        "room": "A228(M) 02 Hr Class",
+        "room": "A228(M)",
         "instructor": "Dr. Yasser M.S.A Al- Kahraman"
       },
       {
@@ -17244,7 +17244,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Biochemistry - I",
-        "room": "A118(60M) 02 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Abdul Mannan"
       },
       {
@@ -17283,7 +17283,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Organic Chemistry - I",
-        "room": "A-127 1.5 Hr Class",
+        "room": "A-127",
         "instructor": "Dr. Zia ur Rehman"
       },
       {
@@ -17341,7 +17341,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Physical Pharmacy - I",
-        "room": "A114(60M) 1.5 Hr Class",
+        "room": "A114(60M)",
         "instructor": "Dr. Sana Mushtaq"
       }
     ],
@@ -17373,7 +17373,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Biochemistry - I",
-        "room": "A120(60M) 02 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Dr. Abdul Mannan"
       },
       {
@@ -17396,7 +17396,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Physiology-I",
-        "room": "A218(M) 1.5 Hr Class",
+        "room": "A218(M)",
         "instructor": "Dr. M Hassham Hassan Bin Asad"
       },
       {
@@ -17468,7 +17468,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mathematics I",
-        "room": "A212(M) 1.5 Hr Class",
+        "room": "A212(M)",
         "instructor": "Dr. Ali Ahmad Farooq"
       },
       {
@@ -17507,7 +17507,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics IIIA (Pharmaceutical Microbiology & Immunology)",
-        "room": "A220(M) 1.5 Hr Class",
+        "room": "A220(M)",
         "instructor": "Dr. Hammadullah"
       },
       {
@@ -17530,7 +17530,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics IIIA (Pharmaceutical Microbiology & Immunology)",
-        "room": "A114(60M) 1.5 Hr Class",
+        "room": "A114(60M)",
         "instructor": "Dr. Hammadullah"
       },
       {
@@ -17595,7 +17595,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacology and Therapeutics IA",
-        "room": "A114(60M) 1.5 Hr Class",
+        "room": "A114(60M)",
         "instructor": "Dr. Nabi Shah"
       },
       {
@@ -17625,7 +17625,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacognosy IA (Basic)",
-        "room": "A216(60M) 1.5 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Dr. Zia Uddin"
       }
     ],
@@ -17641,7 +17641,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Mathematics I",
-        "room": "A216(60M) 1.5 Hr Class",
+        "room": "A216(60M)",
         "instructor": "Dr. Izaz Ullah Khan"
       },
       {
@@ -17752,7 +17752,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutical Chemistry IIIA (Pharmaceutical Analysis)",
-        "room": "A118(60M) 1.5 Hr Class",
+        "room": "A118(60M)",
         "instructor": "Dr. Nighat Fatima"
       },
       {
@@ -17810,7 +17810,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutical Chemistry IIIA (Pharmaceutical Analysis)",
-        "room": "A-106 1.5 Hr Class",
+        "room": "A-106",
         "instructor": "Dr. Yasser M.S.A Al- Kahraman"
       },
       {
@@ -17944,7 +17944,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics VIA (Pharmaceutical Quality Management I)",
-        "room": "A223(60M) 1.5 Hr Class",
+        "room": "A223(60M)",
         "instructor": "Faisal Mukhtar"
       },
       {
@@ -17974,7 +17974,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacy Practice VA (Clinical Pharmacy)",
-        "room": "A120(60M) 1.5 Hr Class",
+        "room": "A120(60M)",
         "instructor": "Dr. Muhammad Junaid Hassan Sharif"
       },
       {
@@ -18092,7 +18092,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics VIA (Pharmaceutical Quality Management I)",
-        "room": "A213(M) 1.5 Hr Class",
+        "room": "A213(M)",
         "instructor": "Faisal Mukhtar"
       }
     ],
@@ -18134,7 +18134,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacy Practice VIA (Advanced Clinical Pharmacy)",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Dr. Qasim Khan"
       },
       {
@@ -18150,7 +18150,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics VIIA (Pharmaceutical Technology)",
-        "room": "A121(M) 1.5 Hr Class",
+        "room": "A121(M)",
         "instructor": "Ariba Waqar"
       },
       {
@@ -18293,7 +18293,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacy Practice VIIA (Forensic Pharmacy)",
-        "room": "A218(M) 1.5 Hr Class",
+        "room": "A218(M)",
         "instructor": "Ariba Waqar"
       },
       {
@@ -19259,14 +19259,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Research Methodology",
-        "room": "C203(58) 01 Hr Class",
+        "room": "C203(58)",
         "instructor": "Dr. Zia ur Rehman"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Advanced Programing Languages",
-        "room": "S104 (106M) 01 Hr Class",
+        "room": "S104 (106M)",
         "instructor": "Dr. Farman Ullah"
       }
     ],
@@ -19275,7 +19275,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programing Languages",
-        "room": "C210(50) 01 Hr Class",
+        "room": "C210(50)",
         "instructor": "Dr. Farman Ullah"
       },
       {
@@ -19839,7 +19839,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence in Practice",
-        "room": "Z103(M) 1.5 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       },
       {
@@ -19907,7 +19907,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence in Practice",
-        "room": "Z103(M) 1.5 Hr Class",
+        "room": "Z103(M)",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       },
       {
@@ -21026,7 +21026,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacy Practice-I",
-        "room": "A-127 1.5 Hr Class",
+        "room": "A-127",
         "instructor": "Dr. Muhammad Junaid Hassan Sharif"
       }
     ],
@@ -21263,7 +21263,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmacy Practice-I",
-        "room": "A-127 1.5 Hr Class",
+        "room": "A-127",
         "instructor": "Dr. Muhammad Junaid Hassan Sharif"
       }
     ],
