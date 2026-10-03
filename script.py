@@ -35,64 +35,48 @@ TIME_SLOTS = [
 # Politeness delay between sections (seconds).
 DELAY_SECONDS = 3.0
 
-# Room code like "A114", "A-114", "S-108".
+# Room number like "A114", "A-114", "S-108".
 ROOM_CODE_RE = re.compile(r"\b([A-Z])-?(\d{3})\b")
-# Capacity annotations the site appends to rooms: "(60M)", "(M)", "(58)", "[50M]".
+# Class-length tag the site adds to the room line: "02 Hr Class", "1.5 Hr Class".
+CLASS_LENGTH_RE = re.compile(r"\b\d+(\.\d+)?\s*Hr\s*Class\b", re.IGNORECASE)
+# Capacity annotations on rooms without a number: "(60M)", "(M)", "[50M]".
 CAPACITY_RE = re.compile(r"\s*[(\[]\s*\d*\s*M?\s*[)\]]")
 ORDINAL_SUFFIX_RE = re.compile(r"^(st|nd|rd|th)\b")
 
 
 def merge_split_lines(lines):
-    """Rejoin ordinals the site renders with <sup>, e.g. "18" + "th Century" -> "18th Century"."""
+    """Rejoin ordinals the site renders with <sup>.
+
+    "18", "th", "and 19", "th", "Century Novels" -> "18th and 19th Century Novels"
+    """
     merged = []
+    continues = False  # previous line was a bare "th", so this line belongs to it
     for line in lines:
         if merged and merged[-1][-1:].isdigit() and ORDINAL_SUFFIX_RE.match(line):
             merged[-1] += line
+            continues = ORDINAL_SUFFIX_RE.fullmatch(line) is not None
+        elif continues:
+            merged[-1] += " " + line
+            continues = False
         else:
             merged.append(line)
     return [re.sub(r"(\d) (st|nd|rd|th)\b", r"\1\2", l) for l in merged]
 
 
 def normalize_room(room):
-    """Normalize a room to "<CODE>" (e.g. "A-114") or "<Lab name> (<CODE>)"."""
+    """Reduce a room to just its number (e.g. "A-114").
+
+    Rooms the site lists without a number ("Computer LAB 2", "P3") keep
+    their cleaned-up name.
+    """
+    room = CLASS_LENGTH_RE.sub("", room)
+    code = ROOM_CODE_RE.search(room)
+    if code:
+        return f"{code.group(1)}-{code.group(2)}"
     room = CAPACITY_RE.sub("", room)
     room = re.sub(r"\s*\(L\)", " Lab", room)  # "(L)" marks a lab: "High Voltage (L)"
-    room = room.replace("Dhamtor", "Dhamtour")
     room = re.sub(r"\bLAB\b", "Lab", room)
-    room = ROOM_CODE_RE.sub(r"\1-\2", room)
-    room = re.sub(r"\s+", " ", room).strip()
-
-    code_match = ROOM_CODE_RE.search(room)
-    if not code_match:
-        return room
-    code = code_match.group(0)
-    if room == code:
-        return code
-
-    # Everything except the code (and parens around it) is the lab name,
-    # so "Lab C-207 (Dhamtour)" and "Lab (C-312) CISCO" both end in "(CODE)".
-    name = room.replace(code, " ")
-    name = re.sub(r"[()]", " ", name)
-    name = re.sub(r"\s+", " ", name).strip()
-    # "Microbiology Lab 124 (A-124)" repeats the room number in the name.
-    name = re.sub(rf"\s*\b{code_match.group(2)}$", "", name)
-    return f"{name} ({code})" if name else code
-
-
-def unify_room_names(all_data):
-    """Rename bare codes (e.g. "A-106") to the lab name used elsewhere for that code."""
-    named = {}
-    for days in all_data.values():
-        for entries in days.values():
-            for e in entries:
-                m = re.search(r"\(([A-Z]-\d{3})\)$", e["room"])
-                if m:
-                    named.setdefault(m.group(1), e["room"])
-    for days in all_data.values():
-        for entries in days.values():
-            for e in entries:
-                e["room"] = named.get(e["room"], e["room"])
-    return all_data
+    return re.sub(r"\s+", " ", room).strip()
 
 
 def parse_timetable(soup):
@@ -192,7 +176,7 @@ def main():
 
             time.sleep(DELAY_SECONDS)
 
-        save(unify_room_names(all_data))
+        save(all_data)
 
     sb.driver.close()
 
@@ -211,7 +195,7 @@ def renormalize_existing():
         for entries in days.values():
             for e in entries:
                 e["room"] = normalize_room(e["room"])
-    save(unify_room_names(all_data))
+    save(all_data)
 
 
 if __name__ == "__main__":
