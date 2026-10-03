@@ -47,7 +47,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "E-Business",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Huma Shakir"
       }
     ],
@@ -123,14 +123,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Fundamentals of Management",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Muhammad Fayyaz Sheikh"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Computing Technologies for Business",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Umar Farid"
       }
     ],
@@ -199,7 +199,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Contemporary Nutrition",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Shamyla Nawazish"
       },
       {
@@ -218,7 +218,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Programming Language for Business Analytics",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Assad Rafaq"
       }
     ],
@@ -437,7 +437,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "E-Business",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Huma Shakir"
       },
       {
@@ -479,7 +479,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Jamil Farid"
       }
     ],
@@ -993,7 +993,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Umar Farid"
       }
     ],
@@ -1289,7 +1289,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Muhammad Shoaib Khaliq"
       },
       {
@@ -1305,7 +1305,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Chemistry",
-        "room": "I-106",
+        "room": "Applied&Analytical Chem Lab (I-106)",
         "instructor": "Umair Ashiq"
       },
       {
@@ -1321,7 +1321,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Aisha Bibi"
       },
       {
@@ -1393,7 +1393,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Chemistry",
-        "room": "I-106",
+        "room": "Applied&Analytical Chem Lab (I-106)",
         "instructor": "Umair Ashiq"
       },
       {
@@ -1409,7 +1409,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Muhammad Ali Kazmi"
       },
       {
@@ -1455,7 +1455,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Aisha Bibi"
       },
       {
@@ -1497,7 +1497,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Chemistry",
-        "room": "I-106",
+        "room": "Applied&Analytical Chem Lab (I-106)",
         "instructor": "Umair Ashiq"
       },
       {
@@ -1534,7 +1534,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advisory Session",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Muhammad Ali Kazmi"
       }
     ],
@@ -1566,7 +1566,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Muhammad Ali Kazmi"
       }
     ],
@@ -1575,7 +1575,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Muhammad Tufail"
       },
       {
@@ -1615,7 +1615,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Electronic Devices and Circuits",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Ahmad Fayyaz"
       }
     ],
@@ -1663,14 +1663,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Digital Logic Design",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Dr. Shahid Nawaz Khan"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Syed Shahid Mustafa"
       }
     ],
@@ -1758,14 +1758,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Muhammad Imran Shehzad"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advisory Session",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Sajid Aqeel"
       }
     ],
@@ -1788,7 +1788,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Electronic Devices and Circuits",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Muhammad Shoaib Khaliq"
       }
     ],
@@ -1797,7 +1797,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Digital Logic Design",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Dr. Shahid Nawaz Khan"
       },
       {
@@ -1837,7 +1837,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital Logic Design",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Dr. Ali Zahir"
       }
     ],
@@ -1853,7 +1853,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Electronic Devices and Circuits",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Ahmad Fayyaz"
       }
     ],
@@ -1922,7 +1922,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Syed Shahid Mustafa"
       }
     ],
@@ -1935,7 +1935,7 @@
         "start_slot": "18:00-19:30",
         "end_slot": "19:30-21:00",
         "course": "Programming Fundamentals",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Syed Mashood Murtaza"
       }
     ],
@@ -1996,14 +1996,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Computer Organization and Architecture",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Muhammad Naveed Shaikh"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Mohsin Fayyaz"
       }
     ],
@@ -2012,7 +2012,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Asadullah Khan"
       },
       {
@@ -2035,7 +2035,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Syed Mashood Murtaza"
       },
       {
@@ -2058,7 +2058,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital Signal Processing",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Sajid Aqeel"
       },
       {
@@ -2114,7 +2114,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital Signal Processing",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Sajid Aqeel"
       }
     ],
@@ -2130,7 +2130,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Computer Organization and Architecture",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Muhammad Naveed Shaikh"
       },
       {
@@ -2153,7 +2153,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Asadullah Khan"
       }
     ],
@@ -2162,7 +2162,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Syed Mashood Murtaza"
       },
       {
@@ -2176,7 +2176,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Mohsin Fayyaz"
       }
     ],
@@ -2188,21 +2188,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Principles of Communication Systems",
-        "room": "Z-202",
+        "room": "Tele Communication Lab (Z-202)",
         "instructor": "Atiq ul Anam"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Analog Integrated Circuit, Analysis and Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Owais"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Real Time Embedded Systems",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Saima Habib"
       }
     ],
@@ -2211,7 +2211,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "VLSI Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Ali Zahir"
       },
       {
@@ -2232,7 +2232,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Advisory Session",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Ali Zahir"
       }
     ],
@@ -2241,7 +2241,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Web Technologies",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Faisal Mehmood"
       },
       {
@@ -2271,7 +2271,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Embedded Systems Workshop",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Nadia Zeb (Lab Engineering)"
       },
       {
@@ -2334,14 +2334,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Principles of Communication Systems",
-        "room": "Z-202",
+        "room": "Tele Communication Lab (Z-202)",
         "instructor": "Atiq ul Anam"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital Image Processing",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Shoaib Azmat"
       }
     ],
@@ -2350,7 +2350,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "VLSI Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Ali Zahir"
       },
       {
@@ -2366,7 +2366,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Web Technologies",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Faisal Mehmood"
       },
       {
@@ -2417,7 +2417,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advisory Session",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Muhammad Shoaib Khaliq"
       },
       {
@@ -2433,7 +2433,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Embedded Systems Workshop",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Nadia Zeb (Lab Engineering)"
       },
       {
@@ -2466,7 +2466,7 @@
         "start_slot": "18:00-19:30",
         "end_slot": "19:30-21:00",
         "course": "Linear Circuit Analysis",
-        "room": "Z-122",
+        "room": "Circuit Analysis Lab (Z-122)",
         "instructor": "Dr. Ahmad Fayyaz"
       }
     ],
@@ -2493,7 +2493,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital System Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Malik Summair Asghar"
       }
     ],
@@ -2551,7 +2551,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Control Systems",
-        "room": "Z-222",
+        "room": "EM&I/Control Lab (Z-222)",
         "instructor": "Dr. Uzair Khan"
       }
     ],
@@ -2560,7 +2560,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Database Systems",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Atiqa Malik"
       },
       {
@@ -2592,7 +2592,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Information Security",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Yasar Khan"
       },
       {
@@ -2618,7 +2618,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Faiza Hameed"
       },
       {
@@ -2678,14 +2678,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Laiba Noor"
       },
       {
@@ -2715,7 +2715,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -2724,7 +2724,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Faiza Hameed"
       },
       {
@@ -2738,14 +2738,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -2782,7 +2782,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -2792,7 +2792,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -2815,7 +2815,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -2828,7 +2828,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Muhammad Zubair"
       }
     ],
@@ -2856,7 +2856,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Numerical Computations",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Muhammad Zubair"
       }
     ],
@@ -2898,7 +2898,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Dr. Ehzaz Mustafa"
       },
       {
@@ -2986,7 +2986,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Dr. Ehzaz Mustafa"
       }
     ],
@@ -3161,7 +3161,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -3249,7 +3249,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Fuzel Jamil"
       }
     ],
@@ -3323,7 +3323,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Nayab Pervez"
       }
     ],
@@ -3339,7 +3339,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Object Oriented Programming",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Dr. Abdul Nasir Khan"
       }
     ],
@@ -3383,7 +3383,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Object Oriented Programming",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Dr. Abdul Nasir Khan"
       },
       {
@@ -3406,7 +3406,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Nayab Pervez"
       },
       {
@@ -3471,7 +3471,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Saima Ali"
       }
     ],
@@ -3535,7 +3535,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Object Oriented Programming",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Dr. Waqas Jadoon"
       },
       {
@@ -3608,7 +3608,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Database Systems",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Syed Zulqarnain Arif"
       }
     ],
@@ -3670,7 +3670,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Khurram Jahangir"
       },
       {
@@ -3686,7 +3686,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Structures",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Muhammad Tariq"
       }
     ],
@@ -3735,7 +3735,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Database Systems",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Syed Zulqarnain Arif"
       }
     ],
@@ -3751,7 +3751,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Khurram Jahangir"
       }
     ],
@@ -3760,7 +3760,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Structures",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Muhammad Tariq"
       },
       {
@@ -3848,7 +3848,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Database Systems",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Atiqa Malik"
       },
       {
@@ -3894,14 +3894,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Naseer Khan"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Qurat Ul Ain"
       }
     ],
@@ -3923,7 +3923,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Malik Adnan Jaleel"
       }
     ],
@@ -3932,7 +3932,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Malik Adnan Jaleel"
       }
     ],
@@ -3969,7 +3969,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Dr. Sardar Khaliq uz Zaman"
       },
       {
@@ -3999,7 +3999,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Zaib Un Nisa"
       },
       {
@@ -4029,7 +4029,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Dr. Farman Ullah"
       }
     ],
@@ -4080,7 +4080,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Dr. Javid Ali"
       }
     ],
@@ -4103,14 +4103,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Computer Networks",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Dr. Javid Ali"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Ahsan Khan"
       }
     ],
@@ -4135,7 +4135,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Artificial Intelligence",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Aisha"
       }
     ],
@@ -4186,21 +4186,21 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Muhammad Yasir"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Artificial Intelligence",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Syed Shahab Zarin"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Artificial Intelligence",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Syed Shahab Zarin"
       },
       {
@@ -4232,7 +4232,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Ahsan Khan"
       },
       {
@@ -4261,7 +4261,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -4278,7 +4278,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -4313,7 +4313,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Maryam Ali"
       },
       {
@@ -4350,7 +4350,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Laiba Noor"
       }
     ],
@@ -4359,7 +4359,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Muhammad Ali Faisal"
       },
       {
@@ -4452,7 +4452,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Maryam Ali"
       }
     ],
@@ -4475,7 +4475,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Muhammad Ali Faisal"
       }
     ],
@@ -4514,7 +4514,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Nida Shafique"
       }
     ],
@@ -4526,7 +4526,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Nida Shafique"
       },
       {
@@ -4625,14 +4625,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Yasar Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Muhammad Ali Faisal"
       }
     ],
@@ -4767,14 +4767,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Computer Architecture",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Muhammad Aftab"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Dr. Ahmad Khan"
       }
     ],
@@ -4783,14 +4783,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Faiza Hameed"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Mobile Application Development",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Dr. Jawad Khan"
       }
     ],
@@ -4862,7 +4862,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Mobile Application Development",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Dr. Jawad Khan"
       }
     ],
@@ -4871,7 +4871,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Computer Architecture",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Dr. Noman Ullah"
       },
       {
@@ -4901,14 +4901,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Dr. Ahmad Khan"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Syed Shahab Zarin"
       }
     ],
@@ -4920,7 +4920,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Faiza Hameed"
       },
       {
@@ -4950,7 +4950,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Dr. Nuhman Ul Haq"
       }
     ],
@@ -5026,14 +5026,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Mobile Application Development",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Ayesha Bibi"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Computer Architecture",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Dr. Noman Ullah"
       }
     ],
@@ -5054,7 +5054,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Web Technologies",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Sadaf Riaz"
       }
     ],
@@ -5073,7 +5073,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Web Technologies",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Sadaf Riaz"
       }
     ],
@@ -5113,7 +5113,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "DevOps for Cloud Computing",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Ahmed Ali"
       }
     ],
@@ -5122,7 +5122,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advance Database Systems",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5152,7 +5152,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Science Fundamentals",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Dr. Fiaz Gul Khan"
       },
       {
@@ -5168,14 +5168,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Compiler Construction",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Faryal Jahangir"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "DevOps for Cloud Computing",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Ahmed Ali"
       },
       {
@@ -5216,14 +5216,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Compiler Construction",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Muniba Firdous"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "DevOps for Cloud Computing",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Mazhar Bukhari"
       }
     ],
@@ -5253,7 +5253,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "DevOps for Cloud Computing",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Mazhar Bukhari"
       }
     ],
@@ -5262,7 +5262,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advance Database Systems",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Nighat Usman"
       },
       {
@@ -5306,7 +5306,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Data Science Fundamentals",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Dr. Fiaz Gul Khan"
       }
     ],
@@ -5333,7 +5333,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advance Database Systems",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Gul E Laraib"
       }
     ],
@@ -5356,7 +5356,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Data Science Fundamentals",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Sara Shafique"
       }
     ],
@@ -5379,7 +5379,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Compiler Construction",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Muniba Firdous"
       }
     ],
@@ -5402,7 +5402,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -5424,7 +5424,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Compiler Construction",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Kainat Khalid"
       }
     ],
@@ -5433,7 +5433,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Compiler Construction",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Kainat Khalid"
       }
     ],
@@ -5462,7 +5462,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Jawad Ahmad"
       }
     ],
@@ -5478,7 +5478,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Parallel and Distributed Computing",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5494,7 +5494,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Parallel and Distributed Computing",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5526,7 +5526,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "HCI and Computer Graphics",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Syed Shahab Zarin"
       }
     ],
@@ -5545,7 +5545,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Parallel and Distributed Computing",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Rabbiya Hameed"
       }
     ],
@@ -5571,7 +5571,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Parallel and Distributed Computing",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Rabbiya Hameed"
       },
       {
@@ -5628,7 +5628,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Parallel and Distributed Computing",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       }
     ],
@@ -5660,7 +5660,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Parallel and Distributed Computing",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       }
     ],
@@ -5691,7 +5691,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Object Oriented Programming",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Omer Iqbal (VF)"
       }
     ],
@@ -5700,7 +5700,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Object Oriented Programming",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Omer Iqbal (VF)"
       }
     ],
@@ -5713,7 +5713,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Nida Shafique"
       }
     ],
@@ -5761,7 +5761,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ghanwa Batool"
       },
       {
@@ -5784,14 +5784,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Artificial Intelligence",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Aisha"
       }
     ],
@@ -5842,7 +5842,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Business Analytics",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Zaheer Ahmad"
       },
       {
@@ -5927,7 +5927,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Computing Technologies for Business",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Assad Rafaq"
       }
     ],
@@ -5953,7 +5953,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Computing Technologies for Business",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Muhammad Zia ul Wahid"
       }
     ],
@@ -5992,7 +5992,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Fundamentals of Business Analytics",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Zaheer Ahmad"
       }
     ],
@@ -6042,7 +6042,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Contemporary Nutrition",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Bibi Saima Zeb"
       }
     ],
@@ -6058,7 +6058,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Programming Language for Business Analytics",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Jamil Farid"
       }
     ],
@@ -6111,7 +6111,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Data Structures",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Sohail Muzamil"
       }
     ],
@@ -6143,7 +6143,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Databases for Business",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Umar Farid"
       }
     ],
@@ -6208,7 +6208,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Business Application using Machine Learning",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Shazil Turab"
       }
     ],
@@ -6217,7 +6217,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Databases for Business",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Umar Farid"
       }
     ],
@@ -6297,7 +6297,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Business Application using Machine Learning",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Shazil Turab"
       }
     ],
@@ -6361,7 +6361,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Deep Learning for Business",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Shazil Turab"
       },
       {
@@ -6449,7 +6449,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Khalid Ahmad"
       },
       {
@@ -6465,7 +6465,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Fundamentals of Biology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Khalid Ahmad"
       },
       {
@@ -7664,7 +7664,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -7731,14 +7731,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Electric Circuits Analysis I",
-        "room": "Z-122",
+        "room": "Circuit Analysis Lab (Z-122)",
         "instructor": "Dr. Uzair Khan"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Signals and Systems",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Ihsan Ullah"
       },
       {
@@ -7752,7 +7752,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Introduction to Chemistry",
-        "room": "I-105",
+        "room": "Material Chem Lab (I-105)",
         "instructor": "Dr. Sidra Mumtaz"
       }
     ],
@@ -7761,14 +7761,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Engineering Drawing",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Zulfiqar Khattak"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Rabia Sajjad"
       }
     ],
@@ -7777,7 +7777,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Muhammad Zia ul Wahid"
       },
       {
@@ -7821,14 +7821,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Introduction to Chemistry",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Sidra Mumtaz"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Signals and Systems",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Ihsan Ullah"
       }
     ],
@@ -7858,7 +7858,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Signals and Systems",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Ihsan Ullah"
       }
     ],
@@ -7884,7 +7884,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Rabia Sajjad"
       }
     ],
@@ -7893,7 +7893,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Muhammad Zia ul Wahid"
       },
       {
@@ -7909,7 +7909,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Engineering Drawing",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Zulfiqar Khattak"
       },
       {
@@ -7925,7 +7925,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Electric Circuits Analysis I",
-        "room": "Z-122",
+        "room": "Circuit Analysis Lab (Z-122)",
         "instructor": "Fahad Khan"
       },
       {
@@ -7969,7 +7969,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Advisory Session",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Zulfiqar Khattak"
       }
     ],
@@ -7990,7 +7990,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Electronics I",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Jawad Saleem"
       }
     ],
@@ -8013,7 +8013,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Usman Khalid"
       }
     ],
@@ -8117,7 +8117,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Electronics I",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Jawad Saleem"
       }
     ],
@@ -8126,7 +8126,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Usman Khalid"
       }
     ],
@@ -8191,7 +8191,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "DLD and Microprocessor Lab",
+        "room": "DLD and Microprocessor LAB",
         "instructor": "Dr. Mohsin Shahzad"
       },
       {
@@ -8207,14 +8207,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Principles of Communication Systems",
-        "room": "Z-202",
+        "room": "Tele Communication Lab (Z-202)",
         "instructor": "Atiq ul Anam"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Control Systems",
-        "room": "Z-222",
+        "room": "EM&I/Control Lab (Z-222)",
         "instructor": "Dr. Uzair Khan"
       }
     ],
@@ -8223,7 +8223,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Electronics II",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Abdul Majid"
       },
       {
@@ -8316,7 +8316,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Robotics",
-        "room": "Z-222",
+        "room": "EM&I/Control Lab (Z-222)",
         "instructor": "Dr. Ihsan Ullah"
       }
     ],
@@ -8364,14 +8364,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Asadullah Khan"
       }
     ],
@@ -8417,7 +8417,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Syed Mashood Murtaza"
       },
       {
@@ -8445,7 +8445,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Muhammad Tufail"
       },
       {
@@ -8552,7 +8552,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Environmental Geology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -9198,7 +9198,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Chemistry",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Nadia Riaz"
       }
     ],
@@ -9252,7 +9252,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Chemistry",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Nadia Riaz"
       },
       {
@@ -9268,7 +9268,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Biology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Usman Irshad"
       },
       {
@@ -9304,7 +9304,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Muhammad Tufail"
       },
       {
@@ -9336,7 +9336,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Geology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Asam Shad"
       }
     ],
@@ -9359,7 +9359,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Environmental Microbiology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Rashid Nazir"
       }
     ],
@@ -9419,7 +9419,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Environmental Monitoring",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Bibi Saima Zeb"
       }
     ],
@@ -9428,7 +9428,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Physics",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Sajid Hussain Shah"
       },
       {
@@ -9523,7 +9523,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Soil Science",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Farid Ullah"
       }
     ],
@@ -9546,7 +9546,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Environmental Toxicology",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Zulfiqar Ahmad Bhatti"
       }
     ],
@@ -9559,7 +9559,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Air Pollution and Control",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Romana Afzal"
       },
       {
@@ -9582,7 +9582,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Analytical Techniques",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Maria Siddique"
       },
       {
@@ -9670,7 +9670,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Remote Sensing and GIS",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Romana Jamshed"
       }
     ],
@@ -9693,7 +9693,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Waste Treatment Technology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Asim Yaqub"
       }
     ],
@@ -9815,7 +9815,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Biodiversity and Conservation",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Abdul Nazir"
       }
     ],
@@ -9935,7 +9935,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -9997,7 +9997,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Sifat Shah Fani"
       }
     ],
@@ -10071,7 +10071,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Data Structures",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Sohail Muzamil"
       }
     ],
@@ -10087,7 +10087,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Sifat Shah Fani"
       }
     ],
@@ -10099,7 +10099,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Microbiology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Iftikhar Zeb"
       },
       {
@@ -10154,7 +10154,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Aftab Ahmad Khan"
       }
     ],
@@ -10251,7 +10251,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Laboratory Instrumentation and Techniques",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Romana Afzal"
       },
       {
@@ -10421,7 +10421,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Foundations of Psychology",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Sidra Akram (VF)"
       },
       {
@@ -10437,7 +10437,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Biology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Shahid Masood Shah"
       },
       {
@@ -10579,7 +10579,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Theories and Practice in Experimental Psychology",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Rabia Jehangir Khan (VF)"
       }
     ],
@@ -10627,7 +10627,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -10865,7 +10865,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Psychological Testing",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Asad Ullah Shad (VF)"
       },
       {
@@ -11124,14 +11124,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Digital Image Processing",
-        "room": "Computer Lab 5",
+        "room": "Computer LAB 5",
         "instructor": "Dr. Shoaib Azmat"
       },
       {
@@ -11175,14 +11175,14 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -11191,7 +11191,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Software Construction and Development",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Hifza Ali"
       },
       {
@@ -11214,7 +11214,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ghanwa Batool"
       },
       {
@@ -11244,7 +11244,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Dr. Shahid Khan"
       },
       {
@@ -11258,14 +11258,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ayesha Irshad"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -11277,7 +11277,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Construction and Development",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ayesha Amjid"
       },
       {
@@ -11332,7 +11332,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Muhammad Yasir"
       }
     ],
@@ -11341,14 +11341,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Areej Bashir"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Saima Ali"
       }
     ],
@@ -11379,7 +11379,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -11388,7 +11388,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -11419,7 +11419,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       }
     ],
@@ -11428,7 +11428,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Ahsan Khan Jadoon (VF)"
       }
     ],
@@ -11460,7 +11460,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -11534,7 +11534,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Malik Adnan Jaleel"
       },
       {
@@ -11564,7 +11564,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Shahid Hussain (Senior Eng)"
       }
     ],
@@ -11647,14 +11647,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Shahid Hussain (Senior Eng)"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Dr. Rab Nawaz"
       }
     ],
@@ -11712,7 +11712,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Dr. Rab Nawaz"
       }
     ],
@@ -11760,7 +11760,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Dr. Shahid Khan"
       },
       {
@@ -11779,7 +11779,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Rabbia Qazi"
       },
       {
@@ -11795,7 +11795,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Dr. Shahid Khan"
       }
     ],
@@ -11924,7 +11924,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Object Oriented Programming",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Sumair Khan"
       },
       {
@@ -11954,7 +11954,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Saima Ali"
       }
     ],
@@ -11966,7 +11966,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Object Oriented Programming",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Sumair Khan"
       },
       {
@@ -11989,7 +11989,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Jawad Ahmad"
       },
       {
@@ -12063,14 +12063,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Object Oriented Programming",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Sana Malik"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applied Physics",
-        "room": "C-206",
+        "room": "Physics Lab Dhamtor (C-206)",
         "instructor": "Jawad Ahmad"
       }
     ],
@@ -12155,7 +12155,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Gul E Laraib"
       }
     ],
@@ -12164,7 +12164,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Programming Fundamentals",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Gul E Laraib"
       }
     ],
@@ -12193,7 +12193,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Naseer Khan"
       }
     ],
@@ -12202,7 +12202,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Dr. Imran Ali Khan"
       },
       {
@@ -12248,7 +12248,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Database Systems",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Atiqa Malik"
       },
       {
@@ -12290,7 +12290,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Database Systems",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Mehwish Sabir"
       },
       {
@@ -12306,7 +12306,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Dr. Syed Wajahat Ali"
       },
       {
@@ -12336,7 +12336,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Data Structures",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Humaira Jabeen"
       }
     ],
@@ -12401,7 +12401,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Data Structures",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Humaira Jabeen"
       }
     ],
@@ -12410,7 +12410,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Database Systems",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Mehwish Sabir"
       },
       {
@@ -12440,7 +12440,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Fundamentals of Digital Logic Design",
-        "room": "C-207",
+        "room": "DLD and Microprocessor Lab C-207 (Dhamtour)",
         "instructor": "Dr. Syed Wajahat Ali"
       }
     ],
@@ -12498,7 +12498,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Object Oriented Programming",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Fuzel Jamil"
       }
     ],
@@ -12507,7 +12507,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Object Oriented Programming",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Fuzel Jamil"
       }
     ],
@@ -12584,7 +12584,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Areej Bashir"
       },
       {
@@ -12600,7 +12600,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Information Security",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Muhammad Ahmed Mustafa"
       },
       {
@@ -12623,7 +12623,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -12635,7 +12635,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ayesha Irshad"
       }
     ],
@@ -12651,7 +12651,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Yasar Khan"
       }
     ],
@@ -12713,7 +12713,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Areej Bashir"
       },
       {
@@ -12793,14 +12793,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ghanwa Batool"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Muhammad Yasir"
       }
     ],
@@ -12816,7 +12816,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Information Security",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Dr. Mazhar Ali"
       }
     ],
@@ -12829,7 +12829,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -12855,7 +12855,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Operating Systems",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -12867,7 +12867,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Mobile Application Development",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Muhammad Javed Raza"
       },
       {
@@ -12927,14 +12927,14 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-303",
+        "room": "Computer LAB 08 (C-303)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Web Technologies",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Bushra Mushtaq"
       }
     ],
@@ -12985,7 +12985,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       },
       {
@@ -13008,7 +13008,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Web Technologies",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Bushra Mushtaq"
       },
       {
@@ -13084,7 +13084,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Mobile Application Development",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Muhammad Javed Raza"
       },
       {
@@ -13117,7 +13117,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Mobile Application Development",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Ayesha Bibi"
       }
     ],
@@ -13200,7 +13200,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Web Technologies",
-        "room": "C-103",
+        "room": "Computer LAB 06 (C-103)",
         "instructor": "Muhammad Ali Khan"
       }
     ],
@@ -13209,7 +13209,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Organization and Assembly Language",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Dr. Ahmad Saeed Khattak"
       }
     ],
@@ -13221,7 +13221,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Quality Engineering",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Mukhtiar Zamin"
       },
       {
@@ -13244,7 +13244,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Dr. Osman Khalid"
       }
     ],
@@ -13267,7 +13267,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Dr. Muhammad Ibtisam Gul"
       }
     ],
@@ -13415,7 +13415,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Dr. Syed Faraz Ahmad"
       }
     ],
@@ -13424,14 +13424,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Quality Engineering",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Fizza Semab Nazli"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Machine Learning Fundamentals",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Aatikah Rasool"
       }
     ],
@@ -13457,7 +13457,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Game Development",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Dr. Syed Faraz Ahmad"
       }
     ],
@@ -13466,7 +13466,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Quality Engineering",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Fizza Semab Nazli"
       },
       {
@@ -13482,7 +13482,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Machine Learning Fundamentals",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Aatikah Rasool"
       },
       {
@@ -13580,7 +13580,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -13589,7 +13589,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Computer Networks",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Riasat Khan (VF)"
       }
     ],
@@ -13622,7 +13622,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Data Science Fundamentals",
-        "room": "S-108",
+        "room": "Computer LAB 01 (S-108)",
         "instructor": "Iqra Sarfraz"
       }
     ],
@@ -13661,7 +13661,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Construction and Development",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Hifza Ali"
       },
       {
@@ -13677,14 +13677,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Project Management",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Ahsan Riaz"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Laiba Noor"
       }
     ],
@@ -13705,7 +13705,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Science Fundamentals",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Iqra Sarfraz"
       },
       {
@@ -13765,14 +13765,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advanced Programming",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Amen Faridoon"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Software Project Management",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ahsan Riaz"
       }
     ],
@@ -13781,7 +13781,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Construction and Development",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Hifza Ali"
       },
       {
@@ -13815,7 +13815,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Software Construction and Development",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Ayesha Amjid"
       },
       {
@@ -13838,14 +13838,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Data Science Fundamentals",
-        "room": "S-208",
+        "room": "Computer LAB 11 (S-208)",
         "instructor": "Sara Shafique"
       },
       {
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programming",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Amen Faridoon"
       }
     ],
@@ -13875,7 +13875,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Software Project Management",
-        "room": "S-304",
+        "room": "Computer LAB 05 (S-304)",
         "instructor": "Qazi Muhammad Shaheer"
       }
     ],
@@ -14023,7 +14023,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -14046,7 +14046,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Game Development",
-        "room": "S-303",
+        "room": "Computer LAB 04 (S-303)",
         "instructor": "Dr. Syed Faraz Ahmad"
       },
       {
@@ -14083,14 +14083,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Applications of Information and Communication Technologies",
-        "room": "S-102",
+        "room": "Computer LAB 02 (S-102)",
         "instructor": "Waqar Khursheed"
       },
       {
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Data Structures",
-        "room": "S-312",
+        "room": "Computer LAB 03 (S-312)",
         "instructor": "Waqar Khursheed"
       }
     ],
@@ -14275,7 +14275,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Computer Networks",
-        "room": "C-312",
+        "room": "Computer LAB 09 (C-312) CISCO",
         "instructor": "Ayesha Irshad"
       },
       {
@@ -14301,7 +14301,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "09:00-10:30",
         "course": "Software Construction and Development",
-        "room": "C-107",
+        "room": "Computer LAB 07 (C-107)",
         "instructor": "Hifza Ali"
       },
       {
@@ -14400,7 +14400,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Recombinant DNA Technology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Ayesha Baig"
       }
     ],
@@ -14479,7 +14479,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Analytical Techniques",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Jamshed Iqbal"
       }
     ],
@@ -14553,7 +14553,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Clinical Bacteriology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Syed Tatheer Alam Naqvi"
       },
       {
@@ -14624,7 +14624,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied and Environmental Microbiology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Rashid Nazir"
       },
       {
@@ -14651,7 +14651,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Microbiology",
-        "room": "A-208",
+        "room": "Environmental Microbiology Lab (A-208)",
         "instructor": "Dr. Iftikhar Zeb"
       },
       {
@@ -14667,7 +14667,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Fundamentals of Biology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Shahid Masood Shah"
       },
       {
@@ -14757,7 +14757,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Essentials of Enzymology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Syed Tatheer Alam Naqvi"
       },
       {
@@ -14845,7 +14845,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Introduction to Bioinformatics",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Dr. Ghazal Khurshid"
       }
     ],
@@ -14861,7 +14861,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Introduction to Immunology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Wajiha Khan"
       }
     ],
@@ -14877,7 +14877,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Recombinant DNA Technology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Ayesha Baig"
       }
     ],
@@ -14893,7 +14893,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Food Biotechnology",
-        "room": "A-224",
+        "room": "Biological lab (A-224)",
         "instructor": "Dr. Arshad Mehmood"
       },
       {
@@ -15023,7 +15023,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Industrial Biotechnology",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Samina khalid"
       }
     ],
@@ -15046,7 +15046,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Analytical Techniques",
-        "room": "A-206",
+        "room": "Biotech Lab (A-206)",
         "instructor": "Dr. Jamshed Iqbal"
       }
     ],
@@ -15265,7 +15265,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Sifat Shah Fani"
       },
       {
@@ -15295,14 +15295,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Civil Engineering Drawing Lab",
-        "room": "K-204",
+        "room": "Drawing Hall Lab(K-204)",
         "instructor": "Imtiaz Ahmad"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Civil Engineering Drawing",
-        "room": "K-204",
+        "room": "Drawing Hall Lab(K-204)",
         "instructor": "Imtiaz Ahmad"
       }
     ],
@@ -15311,7 +15311,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Civil Engineering Drawing Lab",
-        "room": "K-204",
+        "room": "Drawing Hall Lab(K-204)",
         "instructor": "Imtiaz Ahmad"
       },
       {
@@ -15354,7 +15354,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Civil Engineering Drawing Lab",
-        "room": "K-209",
+        "room": "Engineering Mechanics Lab (K-209)",
         "instructor": "Rabiah Muhammad"
       },
       {
@@ -15370,7 +15370,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applied Physics",
-        "room": "Z-119",
+        "room": "Physics Lab (Z-119)",
         "instructor": "Sifat Shah Fani"
       }
     ],
@@ -15393,7 +15393,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Civil Engineering Drawing Lab",
-        "room": "K-209",
+        "room": "Engineering Mechanics Lab (K-209)",
         "instructor": "Rabiah Muhammad"
       }
     ],
@@ -15437,14 +15437,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Soil Mechanics Lab",
-        "room": "K-102",
+        "room": "Soil Mechanics Lab (K-102)",
         "instructor": "Muhammad Shakil"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Elementary Fluid Mechanics Lab",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Zanib Fida"
       }
     ],
@@ -15453,7 +15453,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Advanced Surveying Lab",
-        "room": "K-206",
+        "room": "Surveying Lab (K-206)",
         "instructor": "Muhammad Zafar Ali Shah"
       },
       {
@@ -15529,7 +15529,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Soil Mechanics Lab",
-        "room": "K-102",
+        "room": "Soil Mechanics Lab (K-102)",
         "instructor": "Muhammad Shakil"
       },
       {
@@ -15577,7 +15577,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Elementary Fluid Mechanics Lab",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Zanib Fida"
       },
       {
@@ -15591,7 +15591,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advanced Surveying Lab",
-        "room": "K-206",
+        "room": "Surveying Lab (K-206)",
         "instructor": "Muhammad Zafar Ali Shah"
       }
     ],
@@ -15613,7 +15613,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Engineering Surveying Lab",
-        "room": "K-206",
+        "room": "Surveying Lab (K-206)",
         "instructor": "Kifayat Shah"
       },
       {
@@ -15657,7 +15657,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Engineering Lab",
-        "room": "K-203",
+        "room": "Environmental Eng LAB (K-203)",
         "instructor": "Dr. Kashif Mehmood"
       },
       {
@@ -15696,7 +15696,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Engineering Hydrology Lab",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Abdul Waheed"
       },
       {
@@ -15763,7 +15763,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Engineering Lab",
-        "room": "K-203",
+        "room": "Environmental Eng LAB (K-203)",
         "instructor": "Junaid Amin"
       },
       {
@@ -15802,7 +15802,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Engineering Hydrology Lab",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Abdul Waheed"
       },
       {
@@ -15851,7 +15851,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Reinforced Concrete Design II",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Sumaya Malik"
       },
       {
@@ -15890,7 +15890,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Civil Engineering Construction and Graphics",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Muhammad Asghar"
       }
     ],
@@ -15957,7 +15957,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Reinforced Concrete Design II",
-        "room": "K-104",
+        "room": "Fluid Mechanics Lab (K-104)",
         "instructor": "Asif Shahzad"
       },
       {
@@ -15996,7 +15996,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Civil Engineering Construction and Graphics",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Kifayat Shah"
       }
     ],
@@ -16133,7 +16133,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Geotechnical and Foundation Engineering",
-        "room": "K-102",
+        "room": "Soil Mechanics Lab (K-102)",
         "instructor": "Muhammad Asghar"
       }
     ],
@@ -16181,7 +16181,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Environmental Engineering I",
-        "room": "K-203",
+        "room": "Environmental Eng LAB (K-203)",
         "instructor": "Dr. Kashif Mehmood"
       }
     ],
@@ -16216,7 +16216,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Electronics I",
-        "room": "Z-102",
+        "room": "Electronics LAB (Z-102)",
         "instructor": "Dr. Jawad Saleem"
       }
     ],
@@ -16225,7 +16225,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Object Oriented Programming",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Usman Khalid"
       }
     ],
@@ -16313,14 +16313,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Microprocessor Systems and Interfacing",
-        "room": "Z-223",
+        "room": "DLD and Microprocessor Lab (Z-223)",
         "instructor": "Dr. Mohsin Shahzad"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital Signal Processing",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Dr. Ihsan Ullah"
       }
     ],
@@ -16375,7 +16375,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Digital System Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Malik Summair Asghar"
       }
     ],
@@ -16387,14 +16387,14 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Analog Integrated Circuit, Analysis and Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Owais"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Real Time Embedded Systems",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Saima Habib"
       }
     ],
@@ -16403,7 +16403,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Principles of Communication Systems",
-        "room": "Z-202",
+        "room": "Tele Communication Lab (Z-202)",
         "instructor": "Atiq ul Anam"
       },
       {
@@ -16435,7 +16435,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Artificial Intelligence",
-        "room": "Computer Lab 4",
+        "room": "Computer LAB 4",
         "instructor": "Dr. Syed Ayaz Ali Shah"
       },
       {
@@ -16488,7 +16488,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Electromagnetic Theory",
-        "room": "High Voltage Lab",
+        "room": "High Voltage (L)",
         "instructor": "Dr. Owais"
       }
     ],
@@ -16502,7 +16502,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "VLSI Design",
-        "room": "Z-226",
+        "room": "VLSI Lab (Z-226)",
         "instructor": "Dr. Ali Zahir"
       }
     ],
@@ -16564,7 +16564,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Minerology and Crystallography",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       }
     ],
@@ -16573,7 +16573,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Applications of Information and Communication Technologies",
-        "room": "Computer Lab 3",
+        "room": "Computer LAB 3",
         "instructor": "Dr. Aftab Ahmad Khan"
       },
       {
@@ -16611,7 +16611,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Environmental Chemistry",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Farhan Ahmad Khan"
       },
       {
@@ -16634,7 +16634,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Environmental Geology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Sidra Daud"
       }
     ],
@@ -16652,7 +16652,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Introduction to Geophysics",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Javed Iqbal"
       },
       {
@@ -16668,7 +16668,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Stratigraphy and Paleontology",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       },
       {
@@ -16701,7 +16701,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Soil Mechanics",
-        "room": "K-102",
+        "room": "Soil Mechanics Lab (K-102)",
         "instructor": "Dr. Aqeel Goher"
       }
     ],
@@ -16717,7 +16717,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Structural Geology and Tectonics",
-        "room": "Tectonic Lab",
+        "room": "Tectonic LAB",
         "instructor": "Dr. Wahid Abbas"
       }
     ],
@@ -16733,7 +16733,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Igneous and Metamorphic Petrology",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Syed Amjad Ali Bukhari"
       }
     ],
@@ -16749,7 +16749,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Computing and Geostatistics",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -16800,7 +16800,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Petroleum Geology",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Muhammad Jamil"
       }
     ],
@@ -16827,7 +16827,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Sedimentology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Asad Ali"
       },
       {
@@ -16841,7 +16841,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Tectonics of Pakistan",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -16853,7 +16853,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Well Logging",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -16874,7 +16874,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Petroleum Geology of Pakistan",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Asad Ali"
       }
     ],
@@ -16883,7 +16883,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Field Geology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -16913,7 +16913,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Engineering Geology",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Aqeel Goher"
       }
     ],
@@ -16929,7 +16929,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Sequence Stratigraphy",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Asad Ali"
       }
     ],
@@ -16950,7 +16950,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Well Logging",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -16973,7 +16973,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Geotechnical and Foundation Engineering",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Aqeel Goher"
       },
       {
@@ -17005,7 +17005,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Basin Analysis",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Sidra Daud"
       },
       {
@@ -17035,14 +17035,14 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Geology of Pakistan",
-        "room": "ERS Lab-1",
+        "room": "ERS LAB-1",
         "instructor": "Dr. Wahid Abbas"
       },
       {
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Geology of Pakistan",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Wahid Abbas"
       }
     ],
@@ -17054,7 +17054,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Petroleum Geology of Pakistan",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Asad Ali"
       }
     ],
@@ -17080,7 +17080,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Computing and Geostatistics",
-        "room": "ERS Lab-2",
+        "room": "ERS LAB-2",
         "instructor": "Dr. Syed Tallataf Hussain"
       }
     ],
@@ -17355,7 +17355,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Anatomy and Histology",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Haseeba Khan"
       }
     ],
@@ -17367,7 +17367,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Physiology-I",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. S Mobasher Ali Abid"
       },
       {
@@ -17383,7 +17383,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Biochemistry - I",
-        "room": "A-124",
+        "room": "Pharmaceutical Microbiology Lab 124 (A-124))",
         "instructor": "Dr. Yasser M.S.A Al- Kahraman"
       },
       {
@@ -17406,7 +17406,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Organic Chemistry - I",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Muhammad Ashfaq"
       },
       {
@@ -17422,7 +17422,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Physical Pharmacy - I",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Dr. Sana Mushtaq"
       },
       {
@@ -17501,7 +17501,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Physiology-I",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Muhammad Naeem Riaz"
       },
       {
@@ -17540,7 +17540,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Organic Chemistry - I",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Zia ur Rehman"
       },
       {
@@ -17556,14 +17556,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Physical Pharmacy - I",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Dr. Afeefa Aslam"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Biochemistry - I",
-        "room": "A-124",
+        "room": "Pharmaceutical Microbiology Lab 124 (A-124))",
         "instructor": "Dr. Abdul Mannan"
       }
     ],
@@ -17591,7 +17591,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Physical Pharmacy - I",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Dr. Sana Mushtaq"
       },
       {
@@ -17607,7 +17607,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Physiology-I",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. M Hassham Hassan Bin Asad"
       },
       {
@@ -17630,7 +17630,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Biochemistry - I",
-        "room": "A-124",
+        "room": "Pharmaceutical Microbiology Lab 124 (A-124))",
         "instructor": "Dr. Abdul Mannan"
       },
       {
@@ -17653,7 +17653,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Organic Chemistry - I",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Zia ur Rehman"
       },
       {
@@ -17725,14 +17725,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics IIIA (Pharmaceutical Microbiology & Immunology)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Hammadullah"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmaceutics IIA (Dosage Form Science)",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. Shujaat Ali Khan"
       }
     ],
@@ -17741,7 +17741,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacognosy IA (Basic)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Taous Khan"
       },
       {
@@ -17764,7 +17764,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacology and Therapeutics IA",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Haseeba Khan"
       },
       {
@@ -17804,7 +17804,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmacology and Therapeutics IA",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Dr. Nabi Shah"
       }
     ],
@@ -17820,7 +17820,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmaceutics IIIA (Pharmaceutical Microbiology & Immunology)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Muhammad Arfat Yameen"
       }
     ],
@@ -17829,7 +17829,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics IIA (Dosage Form Science)",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Dr. Atif Ali"
       },
       {
@@ -17875,7 +17875,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacognosy IA (Basic)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Zia Uddin"
       },
       {
@@ -17901,14 +17901,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacognosy IIA (Advanced)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Hammadullah"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pathology",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Maria Nazeer"
       }
     ],
@@ -17917,7 +17917,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacology and Therapeutics IIA",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Dr. Khalid Rauf"
       },
       {
@@ -17940,7 +17940,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutical Chemistry IIIA (Pharmaceutical Analysis)",
-        "room": "A-124",
+        "room": "Pharmaceutical Microbiology Lab 124 (A-124))",
         "instructor": "Dr. Nighat Fatima"
       },
       {
@@ -18012,7 +18012,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutical Chemistry IIIA (Pharmaceutical Analysis)",
-        "room": "A-124",
+        "room": "Pharmaceutical Microbiology Lab 124 (A-124))",
         "instructor": "Dr. Yasser M.S.A Al- Kahraman"
       }
     ],
@@ -18021,14 +18021,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacognosy IIA (Advanced)",
-        "room": "A-106",
+        "room": "PHM - Pharmacognosy Lab (A-106)",
         "instructor": "Dr. Fiaz Alam"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pathology",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Maria Nazeer"
       }
     ],
@@ -18074,7 +18074,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacology and Therapeutics IIA",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Dr. Muhammad Ikram"
       },
       {
@@ -18123,7 +18123,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacy Practice VA (Clinical Pharmacy)",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Dr. Muhammad Junaid Hassan Sharif"
       },
       {
@@ -18146,7 +18146,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Pharmaceutics VA (Biopharmaceutics & Pharmacokinetics)",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Dr. Sabeeh Mohsin"
       }
     ],
@@ -18155,7 +18155,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics VIA (Pharmaceutical Quality Management I)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Faisal Mukhtar"
       },
       {
@@ -18178,7 +18178,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics IVA (Industrial Pharmacy)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Nadia Naseem"
       },
       {
@@ -18234,7 +18234,7 @@
         "start_slot": "10:30-12:00",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutics VA (Biopharmaceutics & Pharmacokinetics)",
-        "room": "A-116",
+        "room": "PHM - Pharmacology/Physcio/Histology Lab (A-116)",
         "instructor": "Abdul Shakoor"
       },
       {
@@ -18271,7 +18271,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmaceutics VIA (Pharmaceutical Quality Management I)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Faisal Mukhtar"
       },
       {
@@ -18287,7 +18287,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacy Practice VA (Clinical Pharmacy)",
-        "room": "A-107",
+        "room": "Pharmacology / Physiology & Histology Lab (A-107)",
         "instructor": "Muhammad Naeem Riaz"
       },
       {
@@ -18326,7 +18326,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics IVA (Industrial Pharmacy)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Nadia Naseem"
       },
       {
@@ -18345,7 +18345,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmaceutical Chemistry IVA (Medicinal Chemistry)",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Tariq Ismail"
       },
       {
@@ -18405,7 +18405,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "16:30-18:00",
         "course": "Pharmaceutics VIIA (Pharmaceutical Technology)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Ariba Waqar"
       }
     ],
@@ -18430,7 +18430,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "13:30-15:00",
         "course": "Pharmacy Practice VIA (Advanced Clinical Pharmacy)",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. Qasim Khan"
       },
       {
@@ -18444,7 +18444,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pharmacy Practice VIA (Advanced Clinical Pharmacy)",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. Qasim Khan"
       }
     ],
@@ -18472,14 +18472,14 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmaceutics VIIA (Pharmaceutical Technology)",
-        "room": "A-129",
+        "room": "Industrial Pharmacy Lab (A-129)",
         "instructor": "Dr. Muhammad Imran Amirzada"
       },
       {
         "start_slot": "12:00-13:30",
         "end_slot": "13:30-15:00",
         "course": "Pharmaceutical Chemistry IVA (Medicinal Chemistry)",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Dr. Tariq Ismail"
       },
       {
@@ -18534,7 +18534,7 @@
         "start_slot": "09:00-10:30",
         "end_slot": "10:30-12:00",
         "course": "Pharmacy Practice VIA (Advanced Clinical Pharmacy)",
-        "room": "A-109",
+        "room": "Pharmaceutics Lab (A-109)",
         "instructor": "Dr. Qasim Khan"
       },
       {
@@ -18560,7 +18560,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Pharmaceutical Chemistry IA (Organic I)",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Ariba Waqar"
       }
     ],
@@ -18579,7 +18579,7 @@
         "start_slot": "12:00-13:30",
         "end_slot": "12:00-13:30",
         "course": "Pharmaceutical Chemistry IA (Organic I)",
-        "room": "A-125",
+        "room": "Pharmaceutical Chemistry Lab (A-125)",
         "instructor": "Ariba Waqar"
       }
     ],
@@ -19559,7 +19559,7 @@
         "start_slot": "13:30-15:00",
         "end_slot": "15:00-16:30",
         "course": "Advanced Programing Languages",
-        "room": "C-304",
+        "room": "Computer LAB 10 (C-304)",
         "instructor": "Dr. Farman Ullah"
       }
     ],
@@ -19751,7 +19751,7 @@
         "start_slot": "15:00-16:30",
         "end_slot": "15:00-16:30",
         "course": "Environmental Management and Impact Assessment",
-        "room": "K-205",
+        "room": "K-205(L)",
         "instructor": "To be Allocated (CIV)"
       },
       {
@@ -21227,7 +21227,7 @@
         "start_slot": "16:30-18:00",
         "end_slot": "16:30-18:00",
         "course": "Software Project Management Applications",
-        "room": "Computer Lab 2",
+        "room": "Computer LAB 2",
         "instructor": "Dr. Naveed Iqbal"
       },
       {

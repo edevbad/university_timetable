@@ -39,7 +39,7 @@ DELAY_SECONDS = 3.0
 ROOM_CODE_RE = re.compile(r"\b([A-Z])-?(\d{3})\b")
 # Class-length tag the site adds to the room line: "02 Hr Class", "1.5 Hr Class".
 CLASS_LENGTH_RE = re.compile(r"\b\d+(\.\d+)?\s*Hr\s*Class\b", re.IGNORECASE)
-# Capacity annotations on rooms without a number: "(60M)", "(M)", "[50M]".
+# Capacity annotations the site appends to rooms: "(60M)", "(M)", "[50M]".
 CAPACITY_RE = re.compile(r"\s*[(\[]\s*\d*\s*M?\s*[)\]]")
 ORDINAL_SUFFIX_RE = re.compile(r"^(st|nd|rd|th)\b")
 
@@ -64,19 +64,20 @@ def merge_split_lines(lines):
 
 
 def normalize_room(room):
-    """Reduce a room to just its number (e.g. "A-114").
+    """Clean up a room without changing what it's called.
 
-    Rooms the site lists without a number ("Computer LAB 2", "P3") keep
-    their cleaned-up name.
+    Classrooms become just their number ("02 Hr Class A114(60M)" -> "A-114").
+    Labs keep the site's name and only lose the class-length and capacity
+    tags ("Computer LAB 01 (S-108)[50M]" -> "Computer LAB 01 (S-108)"),
+    since the app filters on those names.
     """
     room = CLASS_LENGTH_RE.sub("", room)
-    code = ROOM_CODE_RE.search(room)
+    room = CAPACITY_RE.sub("", room)
+    room = re.sub(r"\s+", " ", room).strip()
+    code = ROOM_CODE_RE.fullmatch(room)
     if code:
         return f"{code.group(1)}-{code.group(2)}"
-    room = CAPACITY_RE.sub("", room)
-    room = re.sub(r"\s*\(L\)", " Lab", room)  # "(L)" marks a lab: "High Voltage (L)"
-    room = re.sub(r"\bLAB\b", "Lab", room)
-    return re.sub(r"\s+", " ", room).strip()
+    return room
 
 
 def parse_timetable(soup):
